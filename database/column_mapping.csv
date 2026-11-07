@@ -1,0 +1,19 @@
+﻿source_column,target_table,target_columns,transformation,validation
+transaction_id,sales_reports,report_id; source_transaction_id,Salin ID asal; source_dataset diisi nama seed,Report ID unik; pasangan sumber dan ID asal unik
+tanggal_jual,sales_reports,sale_date,Ubah ISO YYYY-MM-DD ke DATE,Tanggal valid pada periode seed
+freelancer_id,freelancers; sales_reports,freelancer_id,Satu master per ID; laporan merujuk ID yang sama,FK wajib menemukan master
+nama_freelancer,freelancers,display_name,Ambil satu nama per freelancer_id,Tidak kosong dan tidak bertentangan untuk ID sama
+americano_qty,sales_report_items,product_id; quantity; unit_price_at_sale; product_name_at_sale,PRD-001 (Americano); buat rincian hanya jika qty > 0; harga dari MENU_PRICES[americano],Kuantitas bulat positif pada rincian; pasangan report_id/product_id unik
+latte_qty,sales_report_items,product_id; quantity; unit_price_at_sale; product_name_at_sale,PRD-002 (Latte); buat rincian hanya jika qty > 0; harga dari MENU_PRICES[latte],Kuantitas bulat positif pada rincian; pasangan report_id/product_id unik
+aren_latte_qty,sales_report_items,product_id; quantity; unit_price_at_sale; product_name_at_sale,PRD-003 (Aren Latte); buat rincian hanya jika qty > 0; harga dari MENU_PRICES[aren_latte],Kuantitas bulat positif pada rincian; pasangan report_id/product_id unik
+matcha_latte_qty,sales_report_items,product_id; quantity; unit_price_at_sale; product_name_at_sale,PRD-004 (Matcha Latte); buat rincian hanya jika qty > 0; harga dari MENU_PRICES[matcha_latte],Kuantitas bulat positif pada rincian; pasangan report_id/product_id unik
+redvelvet_latte_qty,sales_report_items,product_id; quantity; unit_price_at_sale; product_name_at_sale,PRD-005 (Redvelvet Latte); buat rincian hanya jika qty > 0; harga dari MENU_PRICES[redvelvet_latte],Kuantitas bulat positif pada rincian; pasangan report_id/product_id unik
+mocha_latte_qty,sales_report_items,product_id; quantity; unit_price_at_sale; product_name_at_sale,PRD-006 (Mocha Latte); buat rincian hanya jika qty > 0; harga dari MENU_PRICES[mocha_latte],Kuantitas bulat positif pada rincian; pasangan report_id/product_id unik
+total_botol,sales_reports,total_bottles,Cocokkan dengan jumlah quantity rincian,Sama per laporan; diperiksa saat COMMIT
+omzet_penjualan,sales_reports,gross_amount,Cocokkan dengan jumlah quantity × unit_price_at_sale,Sama per laporan; diperiksa saat COMMIT
+komisi_freelancer,sales_reports,commission_amount,Bandingkan sumber; database menghitung ceil 10% per laporan,Generated; jangan kirim nilai saat INSERT; bukan bukti pengakuan/pembayaran
+pendapatan_manajemen,sales_reports,management_amount,Bandingkan sumber; database menghitung omzet dikurangi komisi,Generated; biaya usaha belum diperhitungkan
+metode_pembayaran,sales_reports,payment_method,Salin Cash/QRIS/Transfer,CHECK nilai yang diperbolehkan
+lokasi_penjualan,sales_reports,sale_location,Salin kategori lokasi,Enam lokasi seed; database menerima teks berisi untuk lokasi baru
+status_verifikasi,sales_reports,status,Verified→approved; Pending→pending; Rejected→rejected,revision disediakan untuk alur aplikasi
+keterangan,sales_reports,notes,Teks disalin; kosong atau tanda - diubah menjadi NULL,Opsional; bukan alasan keputusan verifikasi

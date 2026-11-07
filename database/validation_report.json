@@ -1,0 +1,42 @@
+{
+  "dataset_kind": "dummy",
+  "source_dataset": "dummy_sales_arloraka_coffee_750",
+  "source_csv_sha256": "d87083c5b1ee814dfbf5a2a2171b60ba939d67b97c6d36eca440c91443b37951",
+  "generator_sha256": "7b28dbe349404c5345801561ca91be65b1caf208083790cae4574192b293762d",
+  "price_source": "DataDummyCafe.ipynb / MENU_PRICES (dibaca sebagai literal, tanpa menjalankan generator)",
+  "source_columns": 18,
+  "mapped_source_columns": 18,
+  "row_counts": {
+    "freelancers": 10,
+    "products": 6,
+    "sales_reports": 750,
+    "sales_report_items": 1681
+  },
+  "all_bottles": 2145,
+  "all_gross_amount": 30019000,
+  "status_controls": {
+    "approved": {
+      "reports": 693,
+      "bottles": 1986,
+      "gross_amount": 27776000,
+      "commission_amount": 2777600,
+      "management_amount": 24998400
+    },
+    "pending": {
+      "reports": 42,
+      "bottles": 124,
+      "gross_amount": 1738000,
+      "commission_amount": 173800,
+      "management_amount": 1564200
+    },
+    "rejected": {
+      "reports": 15,
+      "bottles": 35,
+      "gross_amount": 505000,
+      "commission_amount": 50500,
+      "management_amount": 454500
+    }
+  },
+  "commission_differences": [],
+  "source_csv_modified": false
+}

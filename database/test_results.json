@@ -1,0 +1,85 @@
+{
+  "engine": "PostgreSQL 17.5 on aarch64-unknown-linux-gnu, compiled by emcc (Emscripten gcc/clang-like replacement + linker emulating GNU ld) 3.1.74 (1092ec30a3fb1d46b1782ff1b4db5094d3d06ae5), 32-bit",
+  "test_environment": "PGlite in-memory; database aplikasi pengguna tidak dihubungkan",
+  "baseline": {
+    "counts": {
+      "freelancers": 10,
+      "products": 6,
+      "reports": 750,
+      "items": 1681
+    },
+    "approved": {
+      "reports": 693,
+      "bottles": 1986,
+      "gross": 27776000,
+      "commission": 2777600,
+      "management": 24998400
+    }
+  },
+  "tests": [
+    {
+      "name": "schema dan seed awal menghasilkan angka kontrol",
+      "passed": true
+    },
+    {
+      "name": "schema dan seed dapat dijalankan ulang tanpa data ganda",
+      "passed": true
+    },
+    {
+      "name": "perubahan harga/nama master dan import ulang mempertahankan snapshot laporan lama",
+      "passed": true
+    },
+    {
+      "name": "header tanpa rincian yang cocok",
+      "passed": true,
+      "rejection": "Laporan TRX-0001 tidak cocok dengan rincian: botol 4 vs 4, omzet 52001 vs 52000"
+    },
+    {
+      "name": "rincian tanpa pembaruan total header",
+      "passed": true,
+      "rejection": "Laporan TRX-0001 tidak cocok dengan rincian: botol 4 vs 5, omzet 52000 vs 62000"
+    },
+    {
+      "name": "status tidak dikenal",
+      "passed": true,
+      "rejection": "new row for relation \"sales_reports\" violates check constraint \"sales_reports_status_check\""
+    },
+    {
+      "name": "kuantitas negatif",
+      "passed": true,
+      "rejection": "new row for relation \"sales_report_items\" violates check constraint \"sales_report_items_quantity_check\""
+    },
+    {
+      "name": "rincian produk ganda",
+      "passed": true,
+      "rejection": "duplicate key value violates unique constraint \"sales_report_items_pkey\""
+    },
+    {
+      "name": "produk tanpa master",
+      "passed": true,
+      "rejection": "insert or update on table \"sales_report_items\" violates foreign key constraint \"sales_report_items_product_id_fkey\""
+    },
+    {
+      "name": "koreksi atomik memperbarui total/komisi dan tidak ditimpa import ulang",
+      "passed": true
+    },
+    {
+      "name": "approved masuk satu kali; pending/revision tidak masuk kontribusi",
+      "passed": true
+    },
+    {
+      "name": "pembulatan komisi Rp15.005 menghasilkan Rp1.501",
+      "passed": true
+    }
+  ],
+  "all_passed": true,
+  "reconciliation_differences": 0,
+  "scope": "Skema inti transaksi, seed berulang, snapshot harga, koreksi, status, constraints, dan pembulatan. Belum menguji backend, login, akses antarpengguna, pembayaran, atau konkurensi server.",
+  "tested_files": {
+    "schema.sql": "83ea68858601406d055a30e48dcacaca99bc4f856f7ee4376499373b076a3462",
+    "seed.sql": "d0fd1cf40f18a488dbbd163d6537391369bff329d87da8ebeb92f7c64b616bfc",
+    "verify.sql": "e6a389e65f3f68dc545d50bf769926ea1bd401af2e35311f04227c32d318be6c",
+    "prepare_seed.py": "ce9db05570af9e14b0ae3b6328e70d9740808a218656a7140881c1c3dfbf5f38"
+  },
+  "source_csv_sha256": "d87083c5b1ee814dfbf5a2a2171b60ba939d67b97c6d36eca440c91443b37951"
+}

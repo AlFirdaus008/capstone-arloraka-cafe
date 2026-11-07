@@ -1,0 +1,751 @@
+﻿report_id,source_dataset,source_transaction_id,freelancer_id,sale_date,status,total_bottles,gross_amount,payment_method,sale_location,notes,is_dummy
+TRX-0001,dummy_sales_arloraka_coffee_750,TRX-0001,FL-010,2026-08-11,approved,4,52000,Cash,Area Perkantoran,,True
+TRX-0002,dummy_sales_arloraka_coffee_750,TRX-0002,FL-010,2026-07-03,approved,4,55000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0003,dummy_sales_arloraka_coffee_750,TRX-0003,FL-001,2026-09-07,approved,2,32000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0004,dummy_sales_arloraka_coffee_750,TRX-0004,FL-001,2026-09-05,approved,3,37000,Cash,Acara Organisasi,,True
+TRX-0005,dummy_sales_arloraka_coffee_750,TRX-0005,FL-006,2026-07-11,approved,2,26000,QRIS,Penjualan Langsung,,True
+TRX-0006,dummy_sales_arloraka_coffee_750,TRX-0006,FL-003,2026-09-13,approved,3,43000,Cash,Penjualan Langsung,,True
+TRX-0007,dummy_sales_arloraka_coffee_750,TRX-0007,FL-009,2026-09-05,approved,1,13000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0008,dummy_sales_arloraka_coffee_750,TRX-0008,FL-008,2026-07-31,approved,2,29000,QRIS,Acara Organisasi,,True
+TRX-0009,dummy_sales_arloraka_coffee_750,TRX-0009,FL-007,2026-10-19,approved,1,10000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0010,dummy_sales_arloraka_coffee_750,TRX-0010,FL-001,2026-09-25,approved,2,24000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0011,dummy_sales_arloraka_coffee_750,TRX-0011,FL-003,2026-08-04,approved,4,56000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0012,dummy_sales_arloraka_coffee_750,TRX-0012,FL-004,2026-09-25,approved,3,36000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0013,dummy_sales_arloraka_coffee_750,TRX-0013,FL-009,2026-08-27,approved,1,16000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0014,dummy_sales_arloraka_coffee_750,TRX-0014,FL-002,2026-08-02,approved,6,85000,QRIS,Acara Organisasi,,True
+TRX-0015,dummy_sales_arloraka_coffee_750,TRX-0015,FL-001,2026-08-05,approved,1,16000,Cash,Acara Organisasi,,True
+TRX-0016,dummy_sales_arloraka_coffee_750,TRX-0016,FL-004,2026-08-27,approved,1,10000,QRIS,Penjualan Langsung,,True
+TRX-0017,dummy_sales_arloraka_coffee_750,TRX-0017,FL-006,2026-08-28,approved,2,28000,QRIS,Area Perkantoran,,True
+TRX-0018,dummy_sales_arloraka_coffee_750,TRX-0018,FL-001,2026-08-01,approved,3,39000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0019,dummy_sales_arloraka_coffee_750,TRX-0019,FL-010,2026-08-24,approved,1,16000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0020,dummy_sales_arloraka_coffee_750,TRX-0020,FL-006,2026-08-11,approved,3,40000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0021,dummy_sales_arloraka_coffee_750,TRX-0021,FL-006,2026-09-05,approved,1,16000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0022,dummy_sales_arloraka_coffee_750,TRX-0022,FL-003,2026-09-16,approved,6,77000,Transfer,Acara Organisasi,,True
+TRX-0023,dummy_sales_arloraka_coffee_750,TRX-0023,FL-002,2026-08-29,approved,1,14000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0024,dummy_sales_arloraka_coffee_750,TRX-0024,FL-007,2026-08-09,approved,5,67000,Cash,Area Perkantoran,,True
+TRX-0025,dummy_sales_arloraka_coffee_750,TRX-0025,FL-006,2026-07-12,approved,1,13000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0026,dummy_sales_arloraka_coffee_750,TRX-0026,FL-007,2026-07-26,approved,1,16000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0027,dummy_sales_arloraka_coffee_750,TRX-0027,FL-005,2026-09-12,pending,1,16000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0028,dummy_sales_arloraka_coffee_750,TRX-0028,FL-009,2026-08-14,approved,3,46000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0029,dummy_sales_arloraka_coffee_750,TRX-0029,FL-001,2026-08-01,approved,3,41000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0030,dummy_sales_arloraka_coffee_750,TRX-0030,FL-004,2026-10-12,approved,8,116000,Cash,Car Free Day,Pembelian dalam jumlah besar,True
+TRX-0031,dummy_sales_arloraka_coffee_750,TRX-0031,FL-006,2026-07-11,approved,10,146000,Cash,Penjualan Langsung,Pembelian dalam jumlah besar,True
+TRX-0032,dummy_sales_arloraka_coffee_750,TRX-0032,FL-007,2026-08-26,approved,3,44000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0033,dummy_sales_arloraka_coffee_750,TRX-0033,FL-001,2026-09-04,approved,2,29000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0034,dummy_sales_arloraka_coffee_750,TRX-0034,FL-003,2026-10-01,approved,1,16000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0035,dummy_sales_arloraka_coffee_750,TRX-0035,FL-001,2026-07-10,approved,3,46000,Cash,Area Perkantoran,,True
+TRX-0036,dummy_sales_arloraka_coffee_750,TRX-0036,FL-002,2026-09-27,approved,2,20000,Cash,Acara Organisasi,,True
+TRX-0037,dummy_sales_arloraka_coffee_750,TRX-0037,FL-002,2026-08-15,approved,1,13000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0038,dummy_sales_arloraka_coffee_750,TRX-0038,FL-010,2026-08-01,approved,4,61000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0039,dummy_sales_arloraka_coffee_750,TRX-0039,FL-001,2026-07-13,approved,1,14000,Transfer,Area Perkantoran,,True
+TRX-0040,dummy_sales_arloraka_coffee_750,TRX-0040,FL-004,2026-08-24,approved,1,16000,QRIS,Area Perkantoran,,True
+TRX-0041,dummy_sales_arloraka_coffee_750,TRX-0041,FL-003,2026-07-05,approved,3,46000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0042,dummy_sales_arloraka_coffee_750,TRX-0042,FL-005,2026-07-04,approved,6,94000,QRIS,Penjualan Langsung,,True
+TRX-0043,dummy_sales_arloraka_coffee_750,TRX-0043,FL-001,2026-07-23,approved,1,10000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0044,dummy_sales_arloraka_coffee_750,TRX-0044,FL-008,2026-08-05,approved,1,14000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0045,dummy_sales_arloraka_coffee_750,TRX-0045,FL-008,2026-09-09,approved,4,54000,Cash,Penjualan Langsung,,True
+TRX-0046,dummy_sales_arloraka_coffee_750,TRX-0046,FL-007,2026-08-11,approved,2,28000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0047,dummy_sales_arloraka_coffee_750,TRX-0047,FL-009,2026-07-12,approved,2,30000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0048,dummy_sales_arloraka_coffee_750,TRX-0048,FL-001,2026-10-10,approved,2,28000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0049,dummy_sales_arloraka_coffee_750,TRX-0049,FL-003,2026-08-02,approved,3,42000,QRIS,Area Perkantoran,,True
+TRX-0050,dummy_sales_arloraka_coffee_750,TRX-0050,FL-004,2026-08-31,approved,5,69000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0051,dummy_sales_arloraka_coffee_750,TRX-0051,FL-008,2026-07-09,approved,3,34000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0052,dummy_sales_arloraka_coffee_750,TRX-0052,FL-010,2026-10-15,approved,4,56000,QRIS,Penjualan Langsung,,True
+TRX-0053,dummy_sales_arloraka_coffee_750,TRX-0053,FL-001,2026-08-25,approved,2,20000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0054,dummy_sales_arloraka_coffee_750,TRX-0054,FL-010,2026-09-04,approved,2,27000,QRIS,Penjualan Langsung,,True
+TRX-0055,dummy_sales_arloraka_coffee_750,TRX-0055,FL-001,2026-10-17,approved,5,70000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0056,dummy_sales_arloraka_coffee_750,TRX-0056,FL-006,2026-08-21,approved,3,37000,Cash,Penjualan Langsung,,True
+TRX-0057,dummy_sales_arloraka_coffee_750,TRX-0057,FL-002,2026-09-08,approved,1,16000,QRIS,Area Perkantoran,,True
+TRX-0058,dummy_sales_arloraka_coffee_750,TRX-0058,FL-010,2026-10-18,approved,3,46000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0059,dummy_sales_arloraka_coffee_750,TRX-0059,FL-009,2026-10-01,approved,4,60000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0060,dummy_sales_arloraka_coffee_750,TRX-0060,FL-010,2026-09-29,approved,1,16000,QRIS,Penjualan Langsung,,True
+TRX-0061,dummy_sales_arloraka_coffee_750,TRX-0061,FL-004,2026-10-03,rejected,2,23000,Cash,Acara Organisasi,,True
+TRX-0062,dummy_sales_arloraka_coffee_750,TRX-0062,FL-005,2026-10-20,approved,4,57000,QRIS,Penjualan Langsung,,True
+TRX-0063,dummy_sales_arloraka_coffee_750,TRX-0063,FL-006,2026-07-26,approved,3,42000,QRIS,Acara Organisasi,,True
+TRX-0064,dummy_sales_arloraka_coffee_750,TRX-0064,FL-005,2026-10-04,approved,3,40000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0065,dummy_sales_arloraka_coffee_750,TRX-0065,FL-002,2026-09-18,approved,1,10000,QRIS,Area Perkantoran,,True
+TRX-0066,dummy_sales_arloraka_coffee_750,TRX-0066,FL-009,2026-08-18,approved,2,30000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0067,dummy_sales_arloraka_coffee_750,TRX-0067,FL-001,2026-10-15,approved,6,91000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0068,dummy_sales_arloraka_coffee_750,TRX-0068,FL-001,2026-07-15,approved,1,10000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0069,dummy_sales_arloraka_coffee_750,TRX-0069,FL-004,2026-10-09,approved,3,36000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0070,dummy_sales_arloraka_coffee_750,TRX-0070,FL-001,2026-07-11,approved,2,29000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0071,dummy_sales_arloraka_coffee_750,TRX-0071,FL-006,2026-09-28,approved,1,14000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0072,dummy_sales_arloraka_coffee_750,TRX-0072,FL-007,2026-09-29,approved,1,13000,QRIS,Area Perkantoran,,True
+TRX-0073,dummy_sales_arloraka_coffee_750,TRX-0073,FL-004,2026-08-11,approved,4,53000,QRIS,Area Perkantoran,,True
+TRX-0074,dummy_sales_arloraka_coffee_750,TRX-0074,FL-005,2026-08-20,approved,1,13000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0075,dummy_sales_arloraka_coffee_750,TRX-0075,FL-003,2026-07-24,approved,1,14000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0076,dummy_sales_arloraka_coffee_750,TRX-0076,FL-001,2026-08-25,approved,3,46000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0077,dummy_sales_arloraka_coffee_750,TRX-0077,FL-005,2026-09-11,approved,2,30000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0078,dummy_sales_arloraka_coffee_750,TRX-0078,FL-002,2026-07-28,approved,1,13000,QRIS,Penjualan Langsung,,True
+TRX-0079,dummy_sales_arloraka_coffee_750,TRX-0079,FL-004,2026-08-28,approved,8,110000,Cash,Area Perkantoran,Pembelian dalam jumlah besar,True
+TRX-0080,dummy_sales_arloraka_coffee_750,TRX-0080,FL-007,2026-08-01,approved,1,16000,QRIS,Area Perkantoran,,True
+TRX-0081,dummy_sales_arloraka_coffee_750,TRX-0081,FL-006,2026-07-13,approved,2,29000,QRIS,Area Perkantoran,,True
+TRX-0082,dummy_sales_arloraka_coffee_750,TRX-0082,FL-001,2026-08-07,approved,1,14000,QRIS,Acara Organisasi,,True
+TRX-0083,dummy_sales_arloraka_coffee_750,TRX-0083,FL-007,2026-09-15,pending,3,48000,Cash,Acara Organisasi,,True
+TRX-0084,dummy_sales_arloraka_coffee_750,TRX-0084,FL-007,2026-07-14,approved,6,77000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0085,dummy_sales_arloraka_coffee_750,TRX-0085,FL-008,2026-07-19,approved,3,46000,QRIS,Acara Organisasi,,True
+TRX-0086,dummy_sales_arloraka_coffee_750,TRX-0086,FL-004,2026-08-12,approved,2,30000,QRIS,Penjualan Langsung,,True
+TRX-0087,dummy_sales_arloraka_coffee_750,TRX-0087,FL-009,2026-08-30,approved,3,40000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0088,dummy_sales_arloraka_coffee_750,TRX-0088,FL-005,2026-09-08,approved,5,70000,QRIS,Area Perkantoran,,True
+TRX-0089,dummy_sales_arloraka_coffee_750,TRX-0089,FL-003,2026-10-07,approved,4,50000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0090,dummy_sales_arloraka_coffee_750,TRX-0090,FL-007,2026-09-19,approved,3,45000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0091,dummy_sales_arloraka_coffee_750,TRX-0091,FL-004,2026-09-04,approved,2,27000,Transfer,Area Perkantoran,,True
+TRX-0092,dummy_sales_arloraka_coffee_750,TRX-0092,FL-008,2026-07-03,approved,6,91000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0093,dummy_sales_arloraka_coffee_750,TRX-0093,FL-009,2026-10-13,pending,2,24000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0094,dummy_sales_arloraka_coffee_750,TRX-0094,FL-005,2026-10-06,approved,3,42000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0095,dummy_sales_arloraka_coffee_750,TRX-0095,FL-005,2026-08-14,approved,6,91000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0096,dummy_sales_arloraka_coffee_750,TRX-0096,FL-009,2026-08-16,approved,2,32000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0097,dummy_sales_arloraka_coffee_750,TRX-0097,FL-001,2026-10-16,approved,2,24000,QRIS,Area Perkantoran,,True
+TRX-0098,dummy_sales_arloraka_coffee_750,TRX-0098,FL-002,2026-09-22,approved,5,68000,QRIS,Acara Organisasi,,True
+TRX-0099,dummy_sales_arloraka_coffee_750,TRX-0099,FL-004,2026-08-28,pending,2,29000,QRIS,Acara Organisasi,,True
+TRX-0100,dummy_sales_arloraka_coffee_750,TRX-0100,FL-002,2026-08-11,approved,3,39000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0101,dummy_sales_arloraka_coffee_750,TRX-0101,FL-002,2026-07-25,approved,3,34000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0102,dummy_sales_arloraka_coffee_750,TRX-0102,FL-002,2026-07-12,approved,4,60000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0103,dummy_sales_arloraka_coffee_750,TRX-0103,FL-001,2026-07-02,approved,1,10000,QRIS,Area Perkantoran,,True
+TRX-0104,dummy_sales_arloraka_coffee_750,TRX-0104,FL-008,2026-10-09,approved,2,29000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0105,dummy_sales_arloraka_coffee_750,TRX-0105,FL-005,2026-08-15,approved,2,27000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0106,dummy_sales_arloraka_coffee_750,TRX-0106,FL-009,2026-08-24,approved,4,55000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0107,dummy_sales_arloraka_coffee_750,TRX-0107,FL-010,2026-10-02,approved,3,36000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0108,dummy_sales_arloraka_coffee_750,TRX-0108,FL-005,2026-07-31,approved,3,37000,QRIS,Penjualan Langsung,,True
+TRX-0109,dummy_sales_arloraka_coffee_750,TRX-0109,FL-005,2026-09-05,approved,3,43000,QRIS,Area Perkantoran,,True
+TRX-0110,dummy_sales_arloraka_coffee_750,TRX-0110,FL-007,2026-07-19,approved,1,16000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0111,dummy_sales_arloraka_coffee_750,TRX-0111,FL-007,2026-08-09,approved,2,32000,Transfer,Penjualan Langsung,,True
+TRX-0112,dummy_sales_arloraka_coffee_750,TRX-0112,FL-001,2026-07-25,approved,2,26000,QRIS,Area Perkantoran,,True
+TRX-0113,dummy_sales_arloraka_coffee_750,TRX-0113,FL-001,2026-09-25,approved,1,14000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0114,dummy_sales_arloraka_coffee_750,TRX-0114,FL-008,2026-07-28,approved,4,61000,QRIS,Penjualan Langsung,,True
+TRX-0115,dummy_sales_arloraka_coffee_750,TRX-0115,FL-004,2026-10-15,approved,1,16000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0116,dummy_sales_arloraka_coffee_750,TRX-0116,FL-006,2026-09-12,pending,5,70000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0117,dummy_sales_arloraka_coffee_750,TRX-0117,FL-005,2026-07-21,approved,6,81000,QRIS,Acara Organisasi,,True
+TRX-0118,dummy_sales_arloraka_coffee_750,TRX-0118,FL-008,2026-08-05,approved,1,16000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0119,dummy_sales_arloraka_coffee_750,TRX-0119,FL-003,2026-09-17,approved,4,56000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0120,dummy_sales_arloraka_coffee_750,TRX-0120,FL-002,2026-09-07,approved,1,14000,QRIS,Acara Organisasi,,True
+TRX-0121,dummy_sales_arloraka_coffee_750,TRX-0121,FL-007,2026-10-14,approved,10,152000,Transfer,Area Kampus,Pembelian dalam jumlah besar,True
+TRX-0122,dummy_sales_arloraka_coffee_750,TRX-0122,FL-003,2026-08-09,approved,2,23000,QRIS,Penjualan Langsung,,True
+TRX-0123,dummy_sales_arloraka_coffee_750,TRX-0123,FL-006,2026-08-13,approved,1,14000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0124,dummy_sales_arloraka_coffee_750,TRX-0124,FL-009,2026-10-07,pending,2,29000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0125,dummy_sales_arloraka_coffee_750,TRX-0125,FL-005,2026-09-11,approved,2,26000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0126,dummy_sales_arloraka_coffee_750,TRX-0126,FL-001,2026-08-09,approved,8,114000,Cash,Area Kampus,Pembelian dalam jumlah besar,True
+TRX-0127,dummy_sales_arloraka_coffee_750,TRX-0127,FL-005,2026-08-30,pending,3,37000,QRIS,Acara Organisasi,,True
+TRX-0128,dummy_sales_arloraka_coffee_750,TRX-0128,FL-008,2026-10-05,approved,3,42000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0129,dummy_sales_arloraka_coffee_750,TRX-0129,FL-001,2026-08-25,approved,1,16000,QRIS,Acara Organisasi,,True
+TRX-0130,dummy_sales_arloraka_coffee_750,TRX-0130,FL-005,2026-08-23,approved,4,61000,Cash,Acara Organisasi,,True
+TRX-0131,dummy_sales_arloraka_coffee_750,TRX-0131,FL-008,2026-10-04,approved,3,46000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0132,dummy_sales_arloraka_coffee_750,TRX-0132,FL-008,2026-10-07,approved,1,14000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0133,dummy_sales_arloraka_coffee_750,TRX-0133,FL-008,2026-07-18,approved,4,55000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0134,dummy_sales_arloraka_coffee_750,TRX-0134,FL-005,2026-09-10,pending,4,54000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0135,dummy_sales_arloraka_coffee_750,TRX-0135,FL-009,2026-07-12,approved,3,42000,QRIS,Area Perkantoran,,True
+TRX-0136,dummy_sales_arloraka_coffee_750,TRX-0136,FL-001,2026-09-08,approved,5,66000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0137,dummy_sales_arloraka_coffee_750,TRX-0137,FL-007,2026-08-24,approved,3,43000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0138,dummy_sales_arloraka_coffee_750,TRX-0138,FL-006,2026-09-27,approved,1,10000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0139,dummy_sales_arloraka_coffee_750,TRX-0139,FL-002,2026-10-15,approved,2,30000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0140,dummy_sales_arloraka_coffee_750,TRX-0140,FL-004,2026-10-18,pending,5,68000,Cash,Area Perkantoran,,True
+TRX-0141,dummy_sales_arloraka_coffee_750,TRX-0141,FL-008,2026-07-21,pending,4,58000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0142,dummy_sales_arloraka_coffee_750,TRX-0142,FL-007,2026-09-07,approved,2,20000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0143,dummy_sales_arloraka_coffee_750,TRX-0143,FL-001,2026-08-24,approved,3,43000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0144,dummy_sales_arloraka_coffee_750,TRX-0144,FL-004,2026-08-14,approved,3,43000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0145,dummy_sales_arloraka_coffee_750,TRX-0145,FL-002,2026-07-12,approved,10,145000,QRIS,Area Kampus,Pembelian dalam jumlah besar,True
+TRX-0146,dummy_sales_arloraka_coffee_750,TRX-0146,FL-005,2026-07-15,approved,3,40000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0147,dummy_sales_arloraka_coffee_750,TRX-0147,FL-009,2026-07-04,approved,1,16000,Transfer,Acara Organisasi,,True
+TRX-0148,dummy_sales_arloraka_coffee_750,TRX-0148,FL-003,2026-09-28,approved,4,54000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0149,dummy_sales_arloraka_coffee_750,TRX-0149,FL-001,2026-09-20,approved,1,13000,QRIS,Acara Organisasi,,True
+TRX-0150,dummy_sales_arloraka_coffee_750,TRX-0150,FL-003,2026-10-18,approved,1,14000,Transfer,Area Perkantoran,,True
+TRX-0151,dummy_sales_arloraka_coffee_750,TRX-0151,FL-002,2026-09-19,approved,10,136000,Transfer,Event Komunitas,Pembelian dalam jumlah besar,True
+TRX-0152,dummy_sales_arloraka_coffee_750,TRX-0152,FL-010,2026-08-11,approved,1,14000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0153,dummy_sales_arloraka_coffee_750,TRX-0153,FL-008,2026-08-24,approved,5,72000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0154,dummy_sales_arloraka_coffee_750,TRX-0154,FL-007,2026-07-15,approved,5,67000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0155,dummy_sales_arloraka_coffee_750,TRX-0155,FL-005,2026-08-19,approved,2,29000,QRIS,Penjualan Langsung,,True
+TRX-0156,dummy_sales_arloraka_coffee_750,TRX-0156,FL-003,2026-09-12,approved,4,53000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0157,dummy_sales_arloraka_coffee_750,TRX-0157,FL-008,2026-08-07,approved,2,29000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0158,dummy_sales_arloraka_coffee_750,TRX-0158,FL-007,2026-07-05,approved,3,44000,Transfer,Acara Organisasi,,True
+TRX-0159,dummy_sales_arloraka_coffee_750,TRX-0159,FL-002,2026-07-13,approved,1,16000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0160,dummy_sales_arloraka_coffee_750,TRX-0160,FL-009,2026-08-20,pending,2,26000,QRIS,Penjualan Langsung,,True
+TRX-0161,dummy_sales_arloraka_coffee_750,TRX-0161,FL-010,2026-07-01,approved,3,46000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0162,dummy_sales_arloraka_coffee_750,TRX-0162,FL-003,2026-07-04,approved,3,43000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0163,dummy_sales_arloraka_coffee_750,TRX-0163,FL-002,2026-10-06,approved,3,44000,QRIS,Area Perkantoran,,True
+TRX-0164,dummy_sales_arloraka_coffee_750,TRX-0164,FL-001,2026-09-03,rejected,6,93000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0165,dummy_sales_arloraka_coffee_750,TRX-0165,FL-010,2026-07-06,approved,2,28000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0166,dummy_sales_arloraka_coffee_750,TRX-0166,FL-003,2026-08-15,approved,3,42000,QRIS,Acara Organisasi,,True
+TRX-0167,dummy_sales_arloraka_coffee_750,TRX-0167,FL-001,2026-08-30,approved,2,32000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0168,dummy_sales_arloraka_coffee_750,TRX-0168,FL-003,2026-07-27,approved,1,10000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0169,dummy_sales_arloraka_coffee_750,TRX-0169,FL-003,2026-08-22,approved,5,74000,QRIS,Area Perkantoran,,True
+TRX-0170,dummy_sales_arloraka_coffee_750,TRX-0170,FL-007,2026-09-06,approved,4,53000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0171,dummy_sales_arloraka_coffee_750,TRX-0171,FL-009,2026-07-28,approved,1,14000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0172,dummy_sales_arloraka_coffee_750,TRX-0172,FL-003,2026-07-29,approved,2,30000,QRIS,Area Perkantoran,,True
+TRX-0173,dummy_sales_arloraka_coffee_750,TRX-0173,FL-004,2026-07-31,approved,1,13000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0174,dummy_sales_arloraka_coffee_750,TRX-0174,FL-001,2026-09-18,approved,3,43000,Cash,Area Perkantoran,,True
+TRX-0175,dummy_sales_arloraka_coffee_750,TRX-0175,FL-010,2026-09-10,approved,3,41000,QRIS,Area Perkantoran,,True
+TRX-0176,dummy_sales_arloraka_coffee_750,TRX-0176,FL-009,2026-10-03,approved,2,27000,QRIS,Acara Organisasi,,True
+TRX-0177,dummy_sales_arloraka_coffee_750,TRX-0177,FL-001,2026-09-13,approved,3,45000,Transfer,Acara Organisasi,,True
+TRX-0178,dummy_sales_arloraka_coffee_750,TRX-0178,FL-001,2026-07-11,approved,3,45000,QRIS,Area Perkantoran,,True
+TRX-0179,dummy_sales_arloraka_coffee_750,TRX-0179,FL-001,2026-10-19,approved,3,48000,Transfer,Penjualan Langsung,,True
+TRX-0180,dummy_sales_arloraka_coffee_750,TRX-0180,FL-007,2026-07-12,approved,3,33000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0181,dummy_sales_arloraka_coffee_750,TRX-0181,FL-003,2026-07-26,approved,1,16000,QRIS,Acara Organisasi,,True
+TRX-0182,dummy_sales_arloraka_coffee_750,TRX-0182,FL-009,2026-08-30,approved,3,48000,Transfer,Penjualan Langsung,,True
+TRX-0183,dummy_sales_arloraka_coffee_750,TRX-0183,FL-007,2026-09-01,approved,2,26000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0184,dummy_sales_arloraka_coffee_750,TRX-0184,FL-005,2026-07-23,approved,1,16000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0185,dummy_sales_arloraka_coffee_750,TRX-0185,FL-009,2026-09-27,pending,1,16000,QRIS,Penjualan Langsung,,True
+TRX-0186,dummy_sales_arloraka_coffee_750,TRX-0186,FL-008,2026-08-30,approved,3,40000,QRIS,Acara Organisasi,,True
+TRX-0187,dummy_sales_arloraka_coffee_750,TRX-0187,FL-001,2026-09-18,approved,2,29000,QRIS,Penjualan Langsung,,True
+TRX-0188,dummy_sales_arloraka_coffee_750,TRX-0188,FL-003,2026-08-04,rejected,2,32000,Cash,Area Perkantoran,,True
+TRX-0189,dummy_sales_arloraka_coffee_750,TRX-0189,FL-002,2026-10-04,approved,6,82000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0190,dummy_sales_arloraka_coffee_750,TRX-0190,FL-002,2026-08-15,approved,3,46000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0191,dummy_sales_arloraka_coffee_750,TRX-0191,FL-004,2026-10-12,approved,3,43000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0192,dummy_sales_arloraka_coffee_750,TRX-0192,FL-001,2026-07-08,approved,1,14000,QRIS,Penjualan Langsung,,True
+TRX-0193,dummy_sales_arloraka_coffee_750,TRX-0193,FL-004,2026-08-04,approved,2,26000,QRIS,Area Perkantoran,,True
+TRX-0194,dummy_sales_arloraka_coffee_750,TRX-0194,FL-001,2026-07-18,approved,4,50000,Transfer,Penjualan Langsung,,True
+TRX-0195,dummy_sales_arloraka_coffee_750,TRX-0195,FL-001,2026-07-17,rejected,2,26000,QRIS,Area Perkantoran,,True
+TRX-0196,dummy_sales_arloraka_coffee_750,TRX-0196,FL-006,2026-09-30,approved,2,32000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0197,dummy_sales_arloraka_coffee_750,TRX-0197,FL-002,2026-08-20,approved,2,30000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0198,dummy_sales_arloraka_coffee_750,TRX-0198,FL-004,2026-08-16,approved,1,13000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0199,dummy_sales_arloraka_coffee_750,TRX-0199,FL-001,2026-07-25,approved,1,14000,Cash,Penjualan Langsung,,True
+TRX-0200,dummy_sales_arloraka_coffee_750,TRX-0200,FL-005,2026-07-13,approved,2,24000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0201,dummy_sales_arloraka_coffee_750,TRX-0201,FL-004,2026-09-21,pending,2,32000,Cash,Penjualan Langsung,,True
+TRX-0202,dummy_sales_arloraka_coffee_750,TRX-0202,FL-003,2026-09-27,approved,3,43000,QRIS,Penjualan Langsung,,True
+TRX-0203,dummy_sales_arloraka_coffee_750,TRX-0203,FL-006,2026-09-10,approved,5,71000,Transfer,Area Perkantoran,,True
+TRX-0204,dummy_sales_arloraka_coffee_750,TRX-0204,FL-001,2026-07-05,approved,3,30000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0205,dummy_sales_arloraka_coffee_750,TRX-0205,FL-003,2026-08-02,approved,4,52000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0206,dummy_sales_arloraka_coffee_750,TRX-0206,FL-001,2026-07-03,approved,8,112000,Transfer,Area Perkantoran,Pembelian dalam jumlah besar,True
+TRX-0207,dummy_sales_arloraka_coffee_750,TRX-0207,FL-007,2026-10-17,approved,2,30000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0208,dummy_sales_arloraka_coffee_750,TRX-0208,FL-001,2026-09-12,approved,2,27000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0209,dummy_sales_arloraka_coffee_750,TRX-0209,FL-009,2026-09-07,approved,1,10000,QRIS,Acara Organisasi,,True
+TRX-0210,dummy_sales_arloraka_coffee_750,TRX-0210,FL-008,2026-08-01,approved,5,71000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0211,dummy_sales_arloraka_coffee_750,TRX-0211,FL-002,2026-09-12,approved,3,38000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0212,dummy_sales_arloraka_coffee_750,TRX-0212,FL-002,2026-09-30,approved,2,28000,QRIS,Area Perkantoran,,True
+TRX-0213,dummy_sales_arloraka_coffee_750,TRX-0213,FL-005,2026-08-03,approved,3,44000,QRIS,Area Perkantoran,,True
+TRX-0214,dummy_sales_arloraka_coffee_750,TRX-0214,FL-007,2026-07-28,approved,10,142000,Transfer,Area Kampus,Pembelian dalam jumlah besar,True
+TRX-0215,dummy_sales_arloraka_coffee_750,TRX-0215,FL-007,2026-07-04,approved,1,14000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0216,dummy_sales_arloraka_coffee_750,TRX-0216,FL-008,2026-08-04,approved,10,150000,QRIS,Acara Organisasi,Pembelian dalam jumlah besar,True
+TRX-0217,dummy_sales_arloraka_coffee_750,TRX-0217,FL-004,2026-09-05,approved,3,42000,Transfer,Area Perkantoran,,True
+TRX-0218,dummy_sales_arloraka_coffee_750,TRX-0218,FL-002,2026-09-29,approved,4,52000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0219,dummy_sales_arloraka_coffee_750,TRX-0219,FL-004,2026-08-28,approved,1,16000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0220,dummy_sales_arloraka_coffee_750,TRX-0220,FL-007,2026-09-05,approved,10,148000,Transfer,Area Kampus,Pembelian dalam jumlah besar,True
+TRX-0221,dummy_sales_arloraka_coffee_750,TRX-0221,FL-001,2026-08-07,approved,1,14000,QRIS,Area Perkantoran,,True
+TRX-0222,dummy_sales_arloraka_coffee_750,TRX-0222,FL-002,2026-10-14,approved,2,28000,QRIS,Acara Organisasi,,True
+TRX-0223,dummy_sales_arloraka_coffee_750,TRX-0223,FL-001,2026-08-23,approved,1,14000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0224,dummy_sales_arloraka_coffee_750,TRX-0224,FL-002,2026-09-24,approved,3,40000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0225,dummy_sales_arloraka_coffee_750,TRX-0225,FL-002,2026-08-01,approved,1,14000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0226,dummy_sales_arloraka_coffee_750,TRX-0226,FL-007,2026-08-20,approved,1,16000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0227,dummy_sales_arloraka_coffee_750,TRX-0227,FL-005,2026-07-16,pending,2,30000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0228,dummy_sales_arloraka_coffee_750,TRX-0228,FL-009,2026-09-01,rejected,1,16000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0229,dummy_sales_arloraka_coffee_750,TRX-0229,FL-006,2026-07-29,approved,1,16000,QRIS,Penjualan Langsung,,True
+TRX-0230,dummy_sales_arloraka_coffee_750,TRX-0230,FL-001,2026-08-09,approved,1,13000,QRIS,Acara Organisasi,,True
+TRX-0231,dummy_sales_arloraka_coffee_750,TRX-0231,FL-001,2026-08-28,approved,5,66000,QRIS,Area Perkantoran,,True
+TRX-0232,dummy_sales_arloraka_coffee_750,TRX-0232,FL-008,2026-10-15,approved,3,48000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0233,dummy_sales_arloraka_coffee_750,TRX-0233,FL-004,2026-09-29,approved,1,14000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0234,dummy_sales_arloraka_coffee_750,TRX-0234,FL-007,2026-08-07,approved,2,27000,Cash,Acara Organisasi,,True
+TRX-0235,dummy_sales_arloraka_coffee_750,TRX-0235,FL-010,2026-08-20,approved,4,50000,QRIS,Area Perkantoran,,True
+TRX-0236,dummy_sales_arloraka_coffee_750,TRX-0236,FL-008,2026-09-12,approved,2,28000,QRIS,Area Perkantoran,,True
+TRX-0237,dummy_sales_arloraka_coffee_750,TRX-0237,FL-005,2026-09-27,approved,3,44000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0238,dummy_sales_arloraka_coffee_750,TRX-0238,FL-003,2026-09-27,approved,5,67000,QRIS,Penjualan Langsung,,True
+TRX-0239,dummy_sales_arloraka_coffee_750,TRX-0239,FL-004,2026-07-18,approved,3,38000,QRIS,Penjualan Langsung,,True
+TRX-0240,dummy_sales_arloraka_coffee_750,TRX-0240,FL-006,2026-10-18,approved,3,43000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0241,dummy_sales_arloraka_coffee_750,TRX-0241,FL-007,2026-08-29,approved,5,65000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0242,dummy_sales_arloraka_coffee_750,TRX-0242,FL-008,2026-08-22,approved,2,32000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0243,dummy_sales_arloraka_coffee_750,TRX-0243,FL-008,2026-09-18,approved,1,13000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0244,dummy_sales_arloraka_coffee_750,TRX-0244,FL-006,2026-09-22,approved,3,46000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0245,dummy_sales_arloraka_coffee_750,TRX-0245,FL-003,2026-09-14,approved,3,37000,QRIS,Acara Organisasi,,True
+TRX-0246,dummy_sales_arloraka_coffee_750,TRX-0246,FL-006,2026-09-11,approved,2,29000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0247,dummy_sales_arloraka_coffee_750,TRX-0247,FL-008,2026-10-14,approved,4,57000,Transfer,Area Perkantoran,,True
+TRX-0248,dummy_sales_arloraka_coffee_750,TRX-0248,FL-004,2026-08-20,approved,5,72000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0249,dummy_sales_arloraka_coffee_750,TRX-0249,FL-008,2026-08-01,pending,2,28000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0250,dummy_sales_arloraka_coffee_750,TRX-0250,FL-003,2026-09-20,approved,4,53000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0251,dummy_sales_arloraka_coffee_750,TRX-0251,FL-004,2026-07-02,approved,2,29000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0252,dummy_sales_arloraka_coffee_750,TRX-0252,FL-008,2026-10-10,approved,3,43000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0253,dummy_sales_arloraka_coffee_750,TRX-0253,FL-005,2026-07-04,approved,10,134000,Cash,Area Perkantoran,Pembelian dalam jumlah besar,True
+TRX-0254,dummy_sales_arloraka_coffee_750,TRX-0254,FL-003,2026-08-18,approved,2,30000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0255,dummy_sales_arloraka_coffee_750,TRX-0255,FL-005,2026-09-09,approved,3,39000,QRIS,Area Perkantoran,,True
+TRX-0256,dummy_sales_arloraka_coffee_750,TRX-0256,FL-005,2026-10-15,approved,4,55000,QRIS,Area Perkantoran,,True
+TRX-0257,dummy_sales_arloraka_coffee_750,TRX-0257,FL-002,2026-07-16,approved,8,113000,QRIS,Area Kampus,Pembelian dalam jumlah besar,True
+TRX-0258,dummy_sales_arloraka_coffee_750,TRX-0258,FL-003,2026-07-12,approved,4,59000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0259,dummy_sales_arloraka_coffee_750,TRX-0259,FL-003,2026-07-13,approved,2,30000,Transfer,Penjualan Langsung,,True
+TRX-0260,dummy_sales_arloraka_coffee_750,TRX-0260,FL-003,2026-07-31,approved,2,30000,Transfer,Area Perkantoran,,True
+TRX-0261,dummy_sales_arloraka_coffee_750,TRX-0261,FL-010,2026-10-01,approved,4,49000,QRIS,Area Perkantoran,,True
+TRX-0262,dummy_sales_arloraka_coffee_750,TRX-0262,FL-003,2026-07-13,approved,2,26000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0263,dummy_sales_arloraka_coffee_750,TRX-0263,FL-003,2026-07-10,approved,6,90000,Cash,Area Perkantoran,,True
+TRX-0264,dummy_sales_arloraka_coffee_750,TRX-0264,FL-001,2026-09-20,approved,5,65000,QRIS,Area Perkantoran,,True
+TRX-0265,dummy_sales_arloraka_coffee_750,TRX-0265,FL-001,2026-07-05,approved,3,46000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0266,dummy_sales_arloraka_coffee_750,TRX-0266,FL-002,2026-09-14,approved,2,30000,Cash,Acara Organisasi,,True
+TRX-0267,dummy_sales_arloraka_coffee_750,TRX-0267,FL-004,2026-10-11,approved,2,32000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0268,dummy_sales_arloraka_coffee_750,TRX-0268,FL-002,2026-08-11,approved,2,27000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0269,dummy_sales_arloraka_coffee_750,TRX-0269,FL-006,2026-09-11,approved,2,26000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0270,dummy_sales_arloraka_coffee_750,TRX-0270,FL-002,2026-08-10,approved,10,137000,QRIS,Area Kampus,Pembelian dalam jumlah besar,True
+TRX-0271,dummy_sales_arloraka_coffee_750,TRX-0271,FL-004,2026-09-23,approved,2,24000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0272,dummy_sales_arloraka_coffee_750,TRX-0272,FL-008,2026-09-06,approved,8,120000,QRIS,Car Free Day,Pembelian dalam jumlah besar,True
+TRX-0273,dummy_sales_arloraka_coffee_750,TRX-0273,FL-003,2026-08-19,pending,2,23000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0274,dummy_sales_arloraka_coffee_750,TRX-0274,FL-003,2026-09-01,rejected,3,42000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0275,dummy_sales_arloraka_coffee_750,TRX-0275,FL-006,2026-10-07,approved,3,45000,QRIS,Area Perkantoran,,True
+TRX-0276,dummy_sales_arloraka_coffee_750,TRX-0276,FL-010,2026-07-26,approved,5,68000,QRIS,Acara Organisasi,,True
+TRX-0277,dummy_sales_arloraka_coffee_750,TRX-0277,FL-009,2026-10-07,approved,1,16000,Cash,Area Perkantoran,,True
+TRX-0278,dummy_sales_arloraka_coffee_750,TRX-0278,FL-003,2026-09-05,approved,2,27000,QRIS,Area Perkantoran,,True
+TRX-0279,dummy_sales_arloraka_coffee_750,TRX-0279,FL-008,2026-09-03,approved,8,111000,QRIS,Acara Organisasi,Pembelian dalam jumlah besar,True
+TRX-0280,dummy_sales_arloraka_coffee_750,TRX-0280,FL-009,2026-07-07,approved,2,32000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0281,dummy_sales_arloraka_coffee_750,TRX-0281,FL-007,2026-09-16,approved,3,39000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0282,dummy_sales_arloraka_coffee_750,TRX-0282,FL-001,2026-10-16,approved,10,136000,Transfer,Car Free Day,Pembelian dalam jumlah besar,True
+TRX-0283,dummy_sales_arloraka_coffee_750,TRX-0283,FL-001,2026-09-07,approved,2,26000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0284,dummy_sales_arloraka_coffee_750,TRX-0284,FL-008,2026-07-13,approved,6,79000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0285,dummy_sales_arloraka_coffee_750,TRX-0285,FL-004,2026-07-09,approved,2,26000,Cash,Penjualan Langsung,,True
+TRX-0286,dummy_sales_arloraka_coffee_750,TRX-0286,FL-003,2026-10-10,approved,2,29000,Cash,Area Perkantoran,,True
+TRX-0287,dummy_sales_arloraka_coffee_750,TRX-0287,FL-001,2026-09-11,approved,5,74000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0288,dummy_sales_arloraka_coffee_750,TRX-0288,FL-008,2026-10-01,approved,3,43000,QRIS,Area Perkantoran,,True
+TRX-0289,dummy_sales_arloraka_coffee_750,TRX-0289,FL-006,2026-07-16,approved,1,14000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0290,dummy_sales_arloraka_coffee_750,TRX-0290,FL-002,2026-07-05,approved,3,34000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0291,dummy_sales_arloraka_coffee_750,TRX-0291,FL-003,2026-07-12,approved,2,30000,Cash,Penjualan Langsung,,True
+TRX-0292,dummy_sales_arloraka_coffee_750,TRX-0292,FL-003,2026-10-10,pending,8,113000,Transfer,Car Free Day,Pembelian dalam jumlah besar,True
+TRX-0293,dummy_sales_arloraka_coffee_750,TRX-0293,FL-010,2026-09-24,approved,3,37000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0294,dummy_sales_arloraka_coffee_750,TRX-0294,FL-004,2026-10-16,approved,2,29000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0295,dummy_sales_arloraka_coffee_750,TRX-0295,FL-004,2026-09-25,approved,4,59000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0296,dummy_sales_arloraka_coffee_750,TRX-0296,FL-003,2026-09-06,approved,1,16000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0297,dummy_sales_arloraka_coffee_750,TRX-0297,FL-007,2026-08-14,approved,1,14000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0298,dummy_sales_arloraka_coffee_750,TRX-0298,FL-005,2026-07-13,approved,2,24000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0299,dummy_sales_arloraka_coffee_750,TRX-0299,FL-004,2026-07-14,approved,2,32000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0300,dummy_sales_arloraka_coffee_750,TRX-0300,FL-005,2026-10-17,approved,3,44000,QRIS,Penjualan Langsung,,True
+TRX-0301,dummy_sales_arloraka_coffee_750,TRX-0301,FL-007,2026-07-03,approved,4,46000,Cash,Area Perkantoran,,True
+TRX-0302,dummy_sales_arloraka_coffee_750,TRX-0302,FL-001,2026-08-11,approved,2,30000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0303,dummy_sales_arloraka_coffee_750,TRX-0303,FL-007,2026-09-26,approved,2,32000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0304,dummy_sales_arloraka_coffee_750,TRX-0304,FL-007,2026-08-23,rejected,2,24000,Cash,Acara Organisasi,,True
+TRX-0305,dummy_sales_arloraka_coffee_750,TRX-0305,FL-010,2026-08-30,approved,1,16000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0306,dummy_sales_arloraka_coffee_750,TRX-0306,FL-007,2026-09-08,approved,3,43000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0307,dummy_sales_arloraka_coffee_750,TRX-0307,FL-009,2026-08-08,approved,2,30000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0308,dummy_sales_arloraka_coffee_750,TRX-0308,FL-006,2026-07-02,approved,2,24000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0309,dummy_sales_arloraka_coffee_750,TRX-0309,FL-001,2026-09-14,approved,2,30000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0310,dummy_sales_arloraka_coffee_750,TRX-0310,FL-004,2026-07-19,approved,1,10000,Cash,Penjualan Langsung,,True
+TRX-0311,dummy_sales_arloraka_coffee_750,TRX-0311,FL-002,2026-10-04,approved,8,116000,Transfer,Area Kampus,Pembelian dalam jumlah besar,True
+TRX-0312,dummy_sales_arloraka_coffee_750,TRX-0312,FL-002,2026-10-18,approved,4,58000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0313,dummy_sales_arloraka_coffee_750,TRX-0313,FL-007,2026-08-23,approved,1,16000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0314,dummy_sales_arloraka_coffee_750,TRX-0314,FL-004,2026-09-25,approved,1,10000,QRIS,Penjualan Langsung,,True
+TRX-0315,dummy_sales_arloraka_coffee_750,TRX-0315,FL-002,2026-09-10,approved,2,28000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0316,dummy_sales_arloraka_coffee_750,TRX-0316,FL-006,2026-08-23,rejected,1,13000,QRIS,Penjualan Langsung,,True
+TRX-0317,dummy_sales_arloraka_coffee_750,TRX-0317,FL-007,2026-07-05,approved,2,30000,Cash,Penjualan Langsung,,True
+TRX-0318,dummy_sales_arloraka_coffee_750,TRX-0318,FL-007,2026-08-09,approved,2,32000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0319,dummy_sales_arloraka_coffee_750,TRX-0319,FL-001,2026-10-11,approved,2,23000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0320,dummy_sales_arloraka_coffee_750,TRX-0320,FL-010,2026-08-01,approved,3,48000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0321,dummy_sales_arloraka_coffee_750,TRX-0321,FL-009,2026-10-09,approved,5,75000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0322,dummy_sales_arloraka_coffee_750,TRX-0322,FL-002,2026-10-04,approved,1,10000,Cash,Area Perkantoran,,True
+TRX-0323,dummy_sales_arloraka_coffee_750,TRX-0323,FL-008,2026-09-29,approved,2,30000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0324,dummy_sales_arloraka_coffee_750,TRX-0324,FL-003,2026-08-30,approved,2,20000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0325,dummy_sales_arloraka_coffee_750,TRX-0325,FL-001,2026-08-28,approved,8,109000,Transfer,Car Free Day,Pembelian dalam jumlah besar,True
+TRX-0326,dummy_sales_arloraka_coffee_750,TRX-0326,FL-003,2026-08-17,approved,2,30000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0327,dummy_sales_arloraka_coffee_750,TRX-0327,FL-010,2026-09-29,approved,4,58000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0328,dummy_sales_arloraka_coffee_750,TRX-0328,FL-005,2026-09-26,approved,6,82000,QRIS,Area Perkantoran,,True
+TRX-0329,dummy_sales_arloraka_coffee_750,TRX-0329,FL-009,2026-08-11,approved,4,62000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0330,dummy_sales_arloraka_coffee_750,TRX-0330,FL-008,2026-07-31,approved,1,16000,QRIS,Penjualan Langsung,,True
+TRX-0331,dummy_sales_arloraka_coffee_750,TRX-0331,FL-007,2026-09-17,approved,3,46000,QRIS,Acara Organisasi,,True
+TRX-0332,dummy_sales_arloraka_coffee_750,TRX-0332,FL-001,2026-08-13,approved,4,56000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0333,dummy_sales_arloraka_coffee_750,TRX-0333,FL-010,2026-08-30,approved,1,16000,Transfer,Acara Organisasi,,True
+TRX-0334,dummy_sales_arloraka_coffee_750,TRX-0334,FL-005,2026-09-28,approved,2,24000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0335,dummy_sales_arloraka_coffee_750,TRX-0335,FL-006,2026-10-06,approved,4,59000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0336,dummy_sales_arloraka_coffee_750,TRX-0336,FL-005,2026-07-06,approved,2,32000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0337,dummy_sales_arloraka_coffee_750,TRX-0337,FL-001,2026-08-15,pending,4,61000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0338,dummy_sales_arloraka_coffee_750,TRX-0338,FL-006,2026-09-11,approved,3,43000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0339,dummy_sales_arloraka_coffee_750,TRX-0339,FL-010,2026-08-18,approved,1,16000,QRIS,Penjualan Langsung,,True
+TRX-0340,dummy_sales_arloraka_coffee_750,TRX-0340,FL-007,2026-08-15,approved,3,48000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0341,dummy_sales_arloraka_coffee_750,TRX-0341,FL-003,2026-07-31,approved,3,40000,QRIS,Penjualan Langsung,,True
+TRX-0342,dummy_sales_arloraka_coffee_750,TRX-0342,FL-005,2026-07-11,approved,3,39000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0343,dummy_sales_arloraka_coffee_750,TRX-0343,FL-006,2026-09-18,approved,2,29000,Cash,Penjualan Langsung,,True
+TRX-0344,dummy_sales_arloraka_coffee_750,TRX-0344,FL-009,2026-07-18,approved,4,59000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0345,dummy_sales_arloraka_coffee_750,TRX-0345,FL-002,2026-09-04,approved,2,30000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0346,dummy_sales_arloraka_coffee_750,TRX-0346,FL-001,2026-10-18,approved,1,16000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0347,dummy_sales_arloraka_coffee_750,TRX-0347,FL-002,2026-08-18,approved,2,24000,Transfer,Area Perkantoran,,True
+TRX-0348,dummy_sales_arloraka_coffee_750,TRX-0348,FL-007,2026-07-27,approved,1,13000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0349,dummy_sales_arloraka_coffee_750,TRX-0349,FL-002,2026-07-28,approved,2,23000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0350,dummy_sales_arloraka_coffee_750,TRX-0350,FL-001,2026-09-14,approved,6,85000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0351,dummy_sales_arloraka_coffee_750,TRX-0351,FL-001,2026-08-28,approved,2,30000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0352,dummy_sales_arloraka_coffee_750,TRX-0352,FL-006,2026-10-09,approved,4,61000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0353,dummy_sales_arloraka_coffee_750,TRX-0353,FL-001,2026-10-13,approved,4,55000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0354,dummy_sales_arloraka_coffee_750,TRX-0354,FL-001,2026-10-12,approved,4,58000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0355,dummy_sales_arloraka_coffee_750,TRX-0355,FL-009,2026-09-13,approved,4,55000,QRIS,Area Perkantoran,,True
+TRX-0356,dummy_sales_arloraka_coffee_750,TRX-0356,FL-003,2026-08-09,approved,4,58000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0357,dummy_sales_arloraka_coffee_750,TRX-0357,FL-008,2026-10-14,approved,1,16000,Transfer,Area Perkantoran,,True
+TRX-0358,dummy_sales_arloraka_coffee_750,TRX-0358,FL-006,2026-10-04,approved,4,60000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0359,dummy_sales_arloraka_coffee_750,TRX-0359,FL-002,2026-09-16,approved,1,13000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0360,dummy_sales_arloraka_coffee_750,TRX-0360,FL-002,2026-08-27,approved,1,10000,QRIS,Penjualan Langsung,,True
+TRX-0361,dummy_sales_arloraka_coffee_750,TRX-0361,FL-001,2026-08-09,approved,1,16000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0362,dummy_sales_arloraka_coffee_750,TRX-0362,FL-002,2026-08-14,approved,1,14000,Transfer,Area Perkantoran,,True
+TRX-0363,dummy_sales_arloraka_coffee_750,TRX-0363,FL-005,2026-08-17,approved,3,45000,QRIS,Acara Organisasi,,True
+TRX-0364,dummy_sales_arloraka_coffee_750,TRX-0364,FL-001,2026-08-29,approved,3,39000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0365,dummy_sales_arloraka_coffee_750,TRX-0365,FL-002,2026-10-09,approved,2,26000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0366,dummy_sales_arloraka_coffee_750,TRX-0366,FL-006,2026-09-01,approved,3,37000,QRIS,Acara Organisasi,,True
+TRX-0367,dummy_sales_arloraka_coffee_750,TRX-0367,FL-004,2026-10-03,approved,2,30000,QRIS,Acara Organisasi,,True
+TRX-0368,dummy_sales_arloraka_coffee_750,TRX-0368,FL-001,2026-08-22,approved,2,28000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0369,dummy_sales_arloraka_coffee_750,TRX-0369,FL-005,2026-08-13,approved,8,112000,QRIS,Area Kampus,Pembelian dalam jumlah besar,True
+TRX-0370,dummy_sales_arloraka_coffee_750,TRX-0370,FL-001,2026-08-11,approved,2,30000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0371,dummy_sales_arloraka_coffee_750,TRX-0371,FL-006,2026-07-25,approved,2,24000,Cash,Area Perkantoran,,True
+TRX-0372,dummy_sales_arloraka_coffee_750,TRX-0372,FL-005,2026-09-25,approved,4,57000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0373,dummy_sales_arloraka_coffee_750,TRX-0373,FL-002,2026-07-19,approved,5,74000,Cash,Area Perkantoran,,True
+TRX-0374,dummy_sales_arloraka_coffee_750,TRX-0374,FL-004,2026-07-18,approved,3,42000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0375,dummy_sales_arloraka_coffee_750,TRX-0375,FL-004,2026-10-10,approved,1,10000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0376,dummy_sales_arloraka_coffee_750,TRX-0376,FL-007,2026-09-12,approved,2,29000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0377,dummy_sales_arloraka_coffee_750,TRX-0377,FL-002,2026-07-31,approved,3,42000,Transfer,Acara Organisasi,,True
+TRX-0378,dummy_sales_arloraka_coffee_750,TRX-0378,FL-002,2026-09-24,approved,1,16000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0379,dummy_sales_arloraka_coffee_750,TRX-0379,FL-001,2026-07-30,approved,5,71000,Cash,Acara Organisasi,,True
+TRX-0380,dummy_sales_arloraka_coffee_750,TRX-0380,FL-010,2026-10-10,approved,4,53000,QRIS,Penjualan Langsung,,True
+TRX-0381,dummy_sales_arloraka_coffee_750,TRX-0381,FL-008,2026-09-22,approved,5,63000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0382,dummy_sales_arloraka_coffee_750,TRX-0382,FL-003,2026-09-02,approved,3,37000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0383,dummy_sales_arloraka_coffee_750,TRX-0383,FL-006,2026-10-02,approved,3,46000,Transfer,Penjualan Langsung,,True
+TRX-0384,dummy_sales_arloraka_coffee_750,TRX-0384,FL-006,2026-08-19,approved,2,29000,Cash,Penjualan Langsung,,True
+TRX-0385,dummy_sales_arloraka_coffee_750,TRX-0385,FL-002,2026-08-29,approved,10,150000,Cash,Area Kampus,Pembelian dalam jumlah besar,True
+TRX-0386,dummy_sales_arloraka_coffee_750,TRX-0386,FL-006,2026-09-16,approved,3,42000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0387,dummy_sales_arloraka_coffee_750,TRX-0387,FL-006,2026-08-21,approved,4,53000,Transfer,Acara Organisasi,,True
+TRX-0388,dummy_sales_arloraka_coffee_750,TRX-0388,FL-005,2026-10-16,pending,2,29000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0389,dummy_sales_arloraka_coffee_750,TRX-0389,FL-005,2026-09-04,approved,2,20000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0390,dummy_sales_arloraka_coffee_750,TRX-0390,FL-009,2026-10-07,approved,3,41000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0391,dummy_sales_arloraka_coffee_750,TRX-0391,FL-010,2026-09-28,approved,1,14000,Transfer,Penjualan Langsung,,True
+TRX-0392,dummy_sales_arloraka_coffee_750,TRX-0392,FL-001,2026-10-03,pending,2,24000,Cash,Acara Organisasi,,True
+TRX-0393,dummy_sales_arloraka_coffee_750,TRX-0393,FL-003,2026-07-10,approved,1,13000,QRIS,Area Perkantoran,,True
+TRX-0394,dummy_sales_arloraka_coffee_750,TRX-0394,FL-002,2026-07-12,approved,1,14000,Cash,Penjualan Langsung,,True
+TRX-0395,dummy_sales_arloraka_coffee_750,TRX-0395,FL-007,2026-08-01,approved,2,26000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0396,dummy_sales_arloraka_coffee_750,TRX-0396,FL-001,2026-09-14,approved,1,14000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0397,dummy_sales_arloraka_coffee_750,TRX-0397,FL-001,2026-07-18,approved,2,32000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0398,dummy_sales_arloraka_coffee_750,TRX-0398,FL-001,2026-08-26,approved,3,39000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0399,dummy_sales_arloraka_coffee_750,TRX-0399,FL-004,2026-07-07,approved,2,30000,Transfer,Acara Organisasi,,True
+TRX-0400,dummy_sales_arloraka_coffee_750,TRX-0400,FL-005,2026-08-05,approved,5,73000,Transfer,Area Perkantoran,,True
+TRX-0401,dummy_sales_arloraka_coffee_750,TRX-0401,FL-003,2026-10-03,approved,5,72000,QRIS,Penjualan Langsung,,True
+TRX-0402,dummy_sales_arloraka_coffee_750,TRX-0402,FL-005,2026-09-02,approved,2,29000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0403,dummy_sales_arloraka_coffee_750,TRX-0403,FL-005,2026-07-17,approved,1,13000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0404,dummy_sales_arloraka_coffee_750,TRX-0404,FL-009,2026-08-01,approved,8,115000,Cash,Area Kampus,Pembelian dalam jumlah besar,True
+TRX-0405,dummy_sales_arloraka_coffee_750,TRX-0405,FL-002,2026-07-25,approved,5,64000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0406,dummy_sales_arloraka_coffee_750,TRX-0406,FL-003,2026-08-21,approved,1,16000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0407,dummy_sales_arloraka_coffee_750,TRX-0407,FL-002,2026-07-24,rejected,5,75000,QRIS,Area Perkantoran,,True
+TRX-0408,dummy_sales_arloraka_coffee_750,TRX-0408,FL-003,2026-09-25,approved,4,52000,QRIS,Area Perkantoran,,True
+TRX-0409,dummy_sales_arloraka_coffee_750,TRX-0409,FL-004,2026-08-27,approved,1,10000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0410,dummy_sales_arloraka_coffee_750,TRX-0410,FL-001,2026-07-18,approved,2,23000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0411,dummy_sales_arloraka_coffee_750,TRX-0411,FL-002,2026-08-01,approved,2,30000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0412,dummy_sales_arloraka_coffee_750,TRX-0412,FL-006,2026-07-27,approved,3,40000,QRIS,Acara Organisasi,,True
+TRX-0413,dummy_sales_arloraka_coffee_750,TRX-0413,FL-002,2026-09-26,approved,2,24000,Transfer,Penjualan Langsung,,True
+TRX-0414,dummy_sales_arloraka_coffee_750,TRX-0414,FL-006,2026-09-07,approved,2,28000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0415,dummy_sales_arloraka_coffee_750,TRX-0415,FL-010,2026-08-01,rejected,1,16000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0416,dummy_sales_arloraka_coffee_750,TRX-0416,FL-003,2026-08-04,approved,1,16000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0417,dummy_sales_arloraka_coffee_750,TRX-0417,FL-002,2026-10-13,approved,2,24000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0418,dummy_sales_arloraka_coffee_750,TRX-0418,FL-010,2026-07-18,approved,2,29000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0419,dummy_sales_arloraka_coffee_750,TRX-0419,FL-005,2026-09-23,approved,5,61000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0420,dummy_sales_arloraka_coffee_750,TRX-0420,FL-009,2026-10-08,approved,5,71000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0421,dummy_sales_arloraka_coffee_750,TRX-0421,FL-007,2026-07-14,approved,3,42000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0422,dummy_sales_arloraka_coffee_750,TRX-0422,FL-005,2026-07-13,approved,5,74000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0423,dummy_sales_arloraka_coffee_750,TRX-0423,FL-003,2026-08-14,approved,1,14000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0424,dummy_sales_arloraka_coffee_750,TRX-0424,FL-001,2026-08-22,approved,8,105000,QRIS,Area Perkantoran,Pembelian dalam jumlah besar,True
+TRX-0425,dummy_sales_arloraka_coffee_750,TRX-0425,FL-008,2026-10-14,approved,8,111000,QRIS,Area Perkantoran,Pembelian dalam jumlah besar,True
+TRX-0426,dummy_sales_arloraka_coffee_750,TRX-0426,FL-003,2026-09-03,approved,4,62000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0427,dummy_sales_arloraka_coffee_750,TRX-0427,FL-004,2026-07-10,approved,2,27000,QRIS,Acara Organisasi,,True
+TRX-0428,dummy_sales_arloraka_coffee_750,TRX-0428,FL-004,2026-08-13,approved,2,24000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0429,dummy_sales_arloraka_coffee_750,TRX-0429,FL-004,2026-07-04,approved,2,29000,Cash,Area Perkantoran,,True
+TRX-0430,dummy_sales_arloraka_coffee_750,TRX-0430,FL-004,2026-07-08,approved,1,16000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0431,dummy_sales_arloraka_coffee_750,TRX-0431,FL-005,2026-08-09,approved,2,28000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0432,dummy_sales_arloraka_coffee_750,TRX-0432,FL-003,2026-07-12,approved,2,32000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0433,dummy_sales_arloraka_coffee_750,TRX-0433,FL-008,2026-07-18,approved,1,16000,QRIS,Acara Organisasi,,True
+TRX-0434,dummy_sales_arloraka_coffee_750,TRX-0434,FL-004,2026-07-26,approved,4,55000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0435,dummy_sales_arloraka_coffee_750,TRX-0435,FL-007,2026-08-15,approved,3,46000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0436,dummy_sales_arloraka_coffee_750,TRX-0436,FL-008,2026-08-30,approved,2,30000,QRIS,Acara Organisasi,,True
+TRX-0437,dummy_sales_arloraka_coffee_750,TRX-0437,FL-003,2026-08-27,pending,3,39000,QRIS,Penjualan Langsung,,True
+TRX-0438,dummy_sales_arloraka_coffee_750,TRX-0438,FL-007,2026-08-14,approved,2,30000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0439,dummy_sales_arloraka_coffee_750,TRX-0439,FL-010,2026-07-31,approved,1,16000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0440,dummy_sales_arloraka_coffee_750,TRX-0440,FL-002,2026-10-14,approved,3,45000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0441,dummy_sales_arloraka_coffee_750,TRX-0441,FL-007,2026-08-16,approved,5,62000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0442,dummy_sales_arloraka_coffee_750,TRX-0442,FL-008,2026-07-03,approved,8,103000,QRIS,Area Kampus,Pembelian dalam jumlah besar,True
+TRX-0443,dummy_sales_arloraka_coffee_750,TRX-0443,FL-007,2026-07-02,approved,2,26000,QRIS,Penjualan Langsung,,True
+TRX-0444,dummy_sales_arloraka_coffee_750,TRX-0444,FL-006,2026-08-01,approved,2,30000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0445,dummy_sales_arloraka_coffee_750,TRX-0445,FL-008,2026-10-02,approved,1,13000,Cash,Penjualan Langsung,,True
+TRX-0446,dummy_sales_arloraka_coffee_750,TRX-0446,FL-003,2026-08-20,approved,5,63000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0447,dummy_sales_arloraka_coffee_750,TRX-0447,FL-002,2026-08-29,approved,3,41000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0448,dummy_sales_arloraka_coffee_750,TRX-0448,FL-006,2026-08-15,approved,1,10000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0449,dummy_sales_arloraka_coffee_750,TRX-0449,FL-002,2026-09-11,approved,5,69000,Transfer,Acara Organisasi,,True
+TRX-0450,dummy_sales_arloraka_coffee_750,TRX-0450,FL-003,2026-10-01,approved,1,14000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0451,dummy_sales_arloraka_coffee_750,TRX-0451,FL-010,2026-07-10,approved,1,14000,Cash,Acara Organisasi,,True
+TRX-0452,dummy_sales_arloraka_coffee_750,TRX-0452,FL-008,2026-09-03,approved,2,32000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0453,dummy_sales_arloraka_coffee_750,TRX-0453,FL-008,2026-09-02,approved,1,14000,Transfer,Acara Organisasi,,True
+TRX-0454,dummy_sales_arloraka_coffee_750,TRX-0454,FL-001,2026-09-26,approved,4,51000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0455,dummy_sales_arloraka_coffee_750,TRX-0455,FL-001,2026-10-05,approved,1,14000,Transfer,Acara Organisasi,,True
+TRX-0456,dummy_sales_arloraka_coffee_750,TRX-0456,FL-005,2026-09-14,approved,3,48000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0457,dummy_sales_arloraka_coffee_750,TRX-0457,FL-002,2026-09-16,approved,3,37000,QRIS,Area Perkantoran,,True
+TRX-0458,dummy_sales_arloraka_coffee_750,TRX-0458,FL-007,2026-07-05,approved,2,30000,QRIS,Area Perkantoran,,True
+TRX-0459,dummy_sales_arloraka_coffee_750,TRX-0459,FL-002,2026-07-10,approved,1,16000,QRIS,Area Perkantoran,,True
+TRX-0460,dummy_sales_arloraka_coffee_750,TRX-0460,FL-006,2026-08-02,approved,8,108000,QRIS,Penjualan Langsung,Pembelian dalam jumlah besar,True
+TRX-0461,dummy_sales_arloraka_coffee_750,TRX-0461,FL-007,2026-07-17,approved,2,32000,Cash,Acara Organisasi,,True
+TRX-0462,dummy_sales_arloraka_coffee_750,TRX-0462,FL-009,2026-09-14,approved,2,23000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0463,dummy_sales_arloraka_coffee_750,TRX-0463,FL-001,2026-09-05,approved,4,64000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0464,dummy_sales_arloraka_coffee_750,TRX-0464,FL-006,2026-10-11,approved,1,16000,Transfer,Acara Organisasi,,True
+TRX-0465,dummy_sales_arloraka_coffee_750,TRX-0465,FL-007,2026-07-01,pending,2,23000,QRIS,Acara Organisasi,,True
+TRX-0466,dummy_sales_arloraka_coffee_750,TRX-0466,FL-005,2026-09-02,approved,1,16000,QRIS,Area Perkantoran,,True
+TRX-0467,dummy_sales_arloraka_coffee_750,TRX-0467,FL-001,2026-07-27,approved,2,23000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0468,dummy_sales_arloraka_coffee_750,TRX-0468,FL-010,2026-10-06,approved,3,46000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0469,dummy_sales_arloraka_coffee_750,TRX-0469,FL-001,2026-08-05,approved,3,42000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0470,dummy_sales_arloraka_coffee_750,TRX-0470,FL-007,2026-08-25,approved,3,36000,QRIS,Area Perkantoran,,True
+TRX-0471,dummy_sales_arloraka_coffee_750,TRX-0471,FL-001,2026-07-23,approved,8,104000,QRIS,Area Kampus,Pembelian dalam jumlah besar,True
+TRX-0472,dummy_sales_arloraka_coffee_750,TRX-0472,FL-001,2026-09-30,approved,2,29000,QRIS,Area Perkantoran,,True
+TRX-0473,dummy_sales_arloraka_coffee_750,TRX-0473,FL-005,2026-09-29,approved,4,61000,Transfer,Area Perkantoran,,True
+TRX-0474,dummy_sales_arloraka_coffee_750,TRX-0474,FL-001,2026-10-11,approved,2,24000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0475,dummy_sales_arloraka_coffee_750,TRX-0475,FL-007,2026-08-14,approved,2,30000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0476,dummy_sales_arloraka_coffee_750,TRX-0476,FL-003,2026-10-17,approved,1,16000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0477,dummy_sales_arloraka_coffee_750,TRX-0477,FL-004,2026-10-20,approved,2,26000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0478,dummy_sales_arloraka_coffee_750,TRX-0478,FL-004,2026-09-12,approved,3,38000,Transfer,Penjualan Langsung,,True
+TRX-0479,dummy_sales_arloraka_coffee_750,TRX-0479,FL-005,2026-08-23,approved,3,42000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0480,dummy_sales_arloraka_coffee_750,TRX-0480,FL-001,2026-07-24,approved,3,46000,QRIS,Acara Organisasi,,True
+TRX-0481,dummy_sales_arloraka_coffee_750,TRX-0481,FL-005,2026-07-10,pending,5,71000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0482,dummy_sales_arloraka_coffee_750,TRX-0482,FL-005,2026-09-23,pending,4,56000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0483,dummy_sales_arloraka_coffee_750,TRX-0483,FL-008,2026-07-14,pending,8,115000,QRIS,Acara Organisasi,Pembelian dalam jumlah besar,True
+TRX-0484,dummy_sales_arloraka_coffee_750,TRX-0484,FL-010,2026-07-03,approved,1,14000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0485,dummy_sales_arloraka_coffee_750,TRX-0485,FL-003,2026-09-11,approved,1,16000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0486,dummy_sales_arloraka_coffee_750,TRX-0486,FL-001,2026-08-19,approved,4,60000,Transfer,Acara Organisasi,,True
+TRX-0487,dummy_sales_arloraka_coffee_750,TRX-0487,FL-005,2026-09-26,approved,2,30000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0488,dummy_sales_arloraka_coffee_750,TRX-0488,FL-002,2026-09-03,approved,1,16000,Cash,Area Perkantoran,,True
+TRX-0489,dummy_sales_arloraka_coffee_750,TRX-0489,FL-001,2026-09-13,approved,2,26000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0490,dummy_sales_arloraka_coffee_750,TRX-0490,FL-005,2026-08-14,approved,2,30000,QRIS,Area Perkantoran,,True
+TRX-0491,dummy_sales_arloraka_coffee_750,TRX-0491,FL-005,2026-07-09,approved,3,44000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0492,dummy_sales_arloraka_coffee_750,TRX-0492,FL-005,2026-07-21,approved,3,38000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0493,dummy_sales_arloraka_coffee_750,TRX-0493,FL-001,2026-07-15,pending,2,29000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0494,dummy_sales_arloraka_coffee_750,TRX-0494,FL-003,2026-07-17,approved,3,36000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0495,dummy_sales_arloraka_coffee_750,TRX-0495,FL-001,2026-08-16,approved,2,23000,Cash,Area Perkantoran,,True
+TRX-0496,dummy_sales_arloraka_coffee_750,TRX-0496,FL-003,2026-08-05,approved,1,10000,QRIS,Acara Organisasi,,True
+TRX-0497,dummy_sales_arloraka_coffee_750,TRX-0497,FL-004,2026-08-31,approved,6,80000,Cash,Acara Organisasi,,True
+TRX-0498,dummy_sales_arloraka_coffee_750,TRX-0498,FL-004,2026-08-14,approved,8,117000,Cash,Area Kampus,Pembelian dalam jumlah besar,True
+TRX-0499,dummy_sales_arloraka_coffee_750,TRX-0499,FL-004,2026-07-16,approved,3,46000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0500,dummy_sales_arloraka_coffee_750,TRX-0500,FL-002,2026-07-16,approved,6,87000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0501,dummy_sales_arloraka_coffee_750,TRX-0501,FL-005,2026-09-05,approved,1,16000,Transfer,Area Perkantoran,,True
+TRX-0502,dummy_sales_arloraka_coffee_750,TRX-0502,FL-001,2026-09-22,approved,2,30000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0503,dummy_sales_arloraka_coffee_750,TRX-0503,FL-007,2026-09-27,approved,3,39000,QRIS,Area Perkantoran,,True
+TRX-0504,dummy_sales_arloraka_coffee_750,TRX-0504,FL-001,2026-08-02,pending,2,27000,QRIS,Area Perkantoran,,True
+TRX-0505,dummy_sales_arloraka_coffee_750,TRX-0505,FL-004,2026-07-20,approved,1,16000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0506,dummy_sales_arloraka_coffee_750,TRX-0506,FL-002,2026-10-09,approved,1,14000,Transfer,Penjualan Langsung,,True
+TRX-0507,dummy_sales_arloraka_coffee_750,TRX-0507,FL-004,2026-09-29,approved,4,56000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0508,dummy_sales_arloraka_coffee_750,TRX-0508,FL-005,2026-09-01,approved,2,26000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0509,dummy_sales_arloraka_coffee_750,TRX-0509,FL-003,2026-07-25,approved,2,24000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0510,dummy_sales_arloraka_coffee_750,TRX-0510,FL-001,2026-10-13,approved,1,14000,QRIS,Area Perkantoran,,True
+TRX-0511,dummy_sales_arloraka_coffee_750,TRX-0511,FL-009,2026-09-14,approved,10,128000,QRIS,Car Free Day,Pembelian dalam jumlah besar,True
+TRX-0512,dummy_sales_arloraka_coffee_750,TRX-0512,FL-007,2026-09-24,pending,2,29000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0513,dummy_sales_arloraka_coffee_750,TRX-0513,FL-007,2026-08-03,approved,4,56000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0514,dummy_sales_arloraka_coffee_750,TRX-0514,FL-004,2026-07-24,approved,2,32000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0515,dummy_sales_arloraka_coffee_750,TRX-0515,FL-002,2026-07-31,pending,4,58000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0516,dummy_sales_arloraka_coffee_750,TRX-0516,FL-003,2026-08-12,approved,1,16000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0517,dummy_sales_arloraka_coffee_750,TRX-0517,FL-008,2026-09-29,approved,2,28000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0518,dummy_sales_arloraka_coffee_750,TRX-0518,FL-006,2026-10-14,approved,2,32000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0519,dummy_sales_arloraka_coffee_750,TRX-0519,FL-008,2026-09-28,approved,1,14000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0520,dummy_sales_arloraka_coffee_750,TRX-0520,FL-009,2026-09-29,approved,2,24000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0521,dummy_sales_arloraka_coffee_750,TRX-0521,FL-008,2026-07-29,approved,1,10000,Transfer,Area Perkantoran,,True
+TRX-0522,dummy_sales_arloraka_coffee_750,TRX-0522,FL-002,2026-08-13,approved,4,59000,Transfer,Area Perkantoran,,True
+TRX-0523,dummy_sales_arloraka_coffee_750,TRX-0523,FL-006,2026-10-02,approved,1,14000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0524,dummy_sales_arloraka_coffee_750,TRX-0524,FL-007,2026-10-07,pending,1,16000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0525,dummy_sales_arloraka_coffee_750,TRX-0525,FL-006,2026-09-14,approved,2,27000,QRIS,Acara Organisasi,,True
+TRX-0526,dummy_sales_arloraka_coffee_750,TRX-0526,FL-001,2026-07-16,approved,3,46000,QRIS,Area Perkantoran,,True
+TRX-0527,dummy_sales_arloraka_coffee_750,TRX-0527,FL-004,2026-10-07,approved,2,24000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0528,dummy_sales_arloraka_coffee_750,TRX-0528,FL-004,2026-09-05,approved,2,27000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0529,dummy_sales_arloraka_coffee_750,TRX-0529,FL-002,2026-08-21,approved,4,62000,QRIS,Penjualan Langsung,,True
+TRX-0530,dummy_sales_arloraka_coffee_750,TRX-0530,FL-002,2026-07-07,approved,2,23000,Cash,Acara Organisasi,,True
+TRX-0531,dummy_sales_arloraka_coffee_750,TRX-0531,FL-001,2026-07-19,approved,1,14000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0532,dummy_sales_arloraka_coffee_750,TRX-0532,FL-003,2026-08-27,rejected,2,32000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0533,dummy_sales_arloraka_coffee_750,TRX-0533,FL-001,2026-07-26,approved,1,10000,QRIS,Acara Organisasi,,True
+TRX-0534,dummy_sales_arloraka_coffee_750,TRX-0534,FL-006,2026-08-19,approved,2,28000,QRIS,Acara Organisasi,,True
+TRX-0535,dummy_sales_arloraka_coffee_750,TRX-0535,FL-004,2026-10-19,approved,10,139000,QRIS,Acara Organisasi,Pembelian dalam jumlah besar,True
+TRX-0536,dummy_sales_arloraka_coffee_750,TRX-0536,FL-001,2026-10-01,approved,2,26000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0537,dummy_sales_arloraka_coffee_750,TRX-0537,FL-004,2026-08-02,approved,2,28000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0538,dummy_sales_arloraka_coffee_750,TRX-0538,FL-001,2026-10-16,approved,2,29000,QRIS,Acara Organisasi,,True
+TRX-0539,dummy_sales_arloraka_coffee_750,TRX-0539,FL-001,2026-09-10,approved,1,14000,QRIS,Acara Organisasi,,True
+TRX-0540,dummy_sales_arloraka_coffee_750,TRX-0540,FL-010,2026-07-09,approved,1,14000,QRIS,Acara Organisasi,,True
+TRX-0541,dummy_sales_arloraka_coffee_750,TRX-0541,FL-007,2026-08-27,approved,6,81000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0542,dummy_sales_arloraka_coffee_750,TRX-0542,FL-006,2026-07-18,approved,1,16000,QRIS,Acara Organisasi,,True
+TRX-0543,dummy_sales_arloraka_coffee_750,TRX-0543,FL-002,2026-09-11,pending,3,42000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0544,dummy_sales_arloraka_coffee_750,TRX-0544,FL-003,2026-10-16,approved,1,13000,QRIS,Penjualan Langsung,,True
+TRX-0545,dummy_sales_arloraka_coffee_750,TRX-0545,FL-001,2026-09-24,approved,8,116000,Cash,Car Free Day,Pembelian dalam jumlah besar,True
+TRX-0546,dummy_sales_arloraka_coffee_750,TRX-0546,FL-003,2026-07-08,approved,2,32000,QRIS,Area Perkantoran,,True
+TRX-0547,dummy_sales_arloraka_coffee_750,TRX-0547,FL-001,2026-08-12,approved,1,13000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0548,dummy_sales_arloraka_coffee_750,TRX-0548,FL-003,2026-09-17,approved,4,56000,QRIS,Acara Organisasi,,True
+TRX-0549,dummy_sales_arloraka_coffee_750,TRX-0549,FL-001,2026-09-15,approved,3,42000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0550,dummy_sales_arloraka_coffee_750,TRX-0550,FL-003,2026-07-17,approved,1,14000,QRIS,Area Perkantoran,,True
+TRX-0551,dummy_sales_arloraka_coffee_750,TRX-0551,FL-009,2026-08-04,approved,1,14000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0552,dummy_sales_arloraka_coffee_750,TRX-0552,FL-005,2026-10-08,approved,3,40000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0553,dummy_sales_arloraka_coffee_750,TRX-0553,FL-010,2026-08-08,approved,4,53000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0554,dummy_sales_arloraka_coffee_750,TRX-0554,FL-004,2026-10-11,approved,2,30000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0555,dummy_sales_arloraka_coffee_750,TRX-0555,FL-007,2026-09-02,approved,4,62000,Cash,Penjualan Langsung,,True
+TRX-0556,dummy_sales_arloraka_coffee_750,TRX-0556,FL-008,2026-09-21,approved,5,74000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0557,dummy_sales_arloraka_coffee_750,TRX-0557,FL-007,2026-07-21,pending,3,40000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0558,dummy_sales_arloraka_coffee_750,TRX-0558,FL-010,2026-09-19,approved,2,30000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0559,dummy_sales_arloraka_coffee_750,TRX-0559,FL-001,2026-08-20,approved,1,10000,QRIS,Penjualan Langsung,,True
+TRX-0560,dummy_sales_arloraka_coffee_750,TRX-0560,FL-008,2026-09-13,pending,3,43000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0561,dummy_sales_arloraka_coffee_750,TRX-0561,FL-003,2026-09-03,approved,3,34000,QRIS,Acara Organisasi,,True
+TRX-0562,dummy_sales_arloraka_coffee_750,TRX-0562,FL-004,2026-08-14,approved,5,68000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0563,dummy_sales_arloraka_coffee_750,TRX-0563,FL-005,2026-09-18,approved,3,36000,QRIS,Area Perkantoran,,True
+TRX-0564,dummy_sales_arloraka_coffee_750,TRX-0564,FL-004,2026-09-13,approved,6,83000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0565,dummy_sales_arloraka_coffee_750,TRX-0565,FL-005,2026-09-02,approved,1,16000,Transfer,Penjualan Langsung,,True
+TRX-0566,dummy_sales_arloraka_coffee_750,TRX-0566,FL-007,2026-10-12,approved,3,45000,Transfer,Area Perkantoran,,True
+TRX-0567,dummy_sales_arloraka_coffee_750,TRX-0567,FL-005,2026-08-07,approved,1,14000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0568,dummy_sales_arloraka_coffee_750,TRX-0568,FL-004,2026-09-12,approved,2,32000,Cash,Penjualan Langsung,,True
+TRX-0569,dummy_sales_arloraka_coffee_750,TRX-0569,FL-007,2026-08-06,approved,1,16000,QRIS,Penjualan Langsung,,True
+TRX-0570,dummy_sales_arloraka_coffee_750,TRX-0570,FL-007,2026-08-31,approved,2,24000,QRIS,Area Perkantoran,,True
+TRX-0571,dummy_sales_arloraka_coffee_750,TRX-0571,FL-004,2026-08-23,approved,1,10000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0572,dummy_sales_arloraka_coffee_750,TRX-0572,FL-007,2026-08-26,approved,1,16000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0573,dummy_sales_arloraka_coffee_750,TRX-0573,FL-001,2026-10-02,approved,1,16000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0574,dummy_sales_arloraka_coffee_750,TRX-0574,FL-004,2026-07-05,approved,3,48000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0575,dummy_sales_arloraka_coffee_750,TRX-0575,FL-010,2026-09-25,pending,8,121000,QRIS,Event Komunitas,Pembelian dalam jumlah besar,True
+TRX-0576,dummy_sales_arloraka_coffee_750,TRX-0576,FL-004,2026-07-07,approved,6,91000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0577,dummy_sales_arloraka_coffee_750,TRX-0577,FL-003,2026-10-17,approved,3,40000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0578,dummy_sales_arloraka_coffee_750,TRX-0578,FL-004,2026-09-25,approved,5,72000,QRIS,Penjualan Langsung,,True
+TRX-0579,dummy_sales_arloraka_coffee_750,TRX-0579,FL-003,2026-09-14,approved,1,14000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0580,dummy_sales_arloraka_coffee_750,TRX-0580,FL-003,2026-07-05,approved,2,27000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0581,dummy_sales_arloraka_coffee_750,TRX-0581,FL-004,2026-09-25,approved,3,36000,Cash,Acara Organisasi,,True
+TRX-0582,dummy_sales_arloraka_coffee_750,TRX-0582,FL-009,2026-08-30,pending,2,24000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0583,dummy_sales_arloraka_coffee_750,TRX-0583,FL-003,2026-09-14,approved,6,86000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0584,dummy_sales_arloraka_coffee_750,TRX-0584,FL-003,2026-08-13,approved,2,30000,Transfer,Penjualan Langsung,,True
+TRX-0585,dummy_sales_arloraka_coffee_750,TRX-0585,FL-004,2026-09-28,approved,5,70000,QRIS,Area Perkantoran,,True
+TRX-0586,dummy_sales_arloraka_coffee_750,TRX-0586,FL-002,2026-09-22,approved,1,13000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0587,dummy_sales_arloraka_coffee_750,TRX-0587,FL-001,2026-08-14,approved,3,43000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0588,dummy_sales_arloraka_coffee_750,TRX-0588,FL-004,2026-08-15,approved,1,16000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0589,dummy_sales_arloraka_coffee_750,TRX-0589,FL-004,2026-10-18,approved,2,30000,Transfer,Acara Organisasi,,True
+TRX-0590,dummy_sales_arloraka_coffee_750,TRX-0590,FL-004,2026-08-21,approved,2,30000,QRIS,Acara Organisasi,,True
+TRX-0591,dummy_sales_arloraka_coffee_750,TRX-0591,FL-005,2026-07-08,approved,2,27000,Cash,Area Perkantoran,,True
+TRX-0592,dummy_sales_arloraka_coffee_750,TRX-0592,FL-005,2026-10-17,approved,2,30000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0593,dummy_sales_arloraka_coffee_750,TRX-0593,FL-007,2026-08-03,approved,2,26000,QRIS,Penjualan Langsung,,True
+TRX-0594,dummy_sales_arloraka_coffee_750,TRX-0594,FL-004,2026-10-19,rejected,1,14000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0595,dummy_sales_arloraka_coffee_750,TRX-0595,FL-001,2026-07-06,approved,4,46000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0596,dummy_sales_arloraka_coffee_750,TRX-0596,FL-004,2026-09-06,approved,1,14000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0597,dummy_sales_arloraka_coffee_750,TRX-0597,FL-005,2026-08-18,approved,2,30000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0598,dummy_sales_arloraka_coffee_750,TRX-0598,FL-010,2026-10-12,approved,2,29000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0599,dummy_sales_arloraka_coffee_750,TRX-0599,FL-002,2026-08-01,approved,2,24000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0600,dummy_sales_arloraka_coffee_750,TRX-0600,FL-005,2026-08-19,pending,2,26000,QRIS,Penjualan Langsung,,True
+TRX-0601,dummy_sales_arloraka_coffee_750,TRX-0601,FL-005,2026-08-07,approved,5,61000,Cash,Area Perkantoran,,True
+TRX-0602,dummy_sales_arloraka_coffee_750,TRX-0602,FL-004,2026-07-29,approved,3,41000,QRIS,Area Perkantoran,,True
+TRX-0603,dummy_sales_arloraka_coffee_750,TRX-0603,FL-010,2026-07-19,approved,5,77000,QRIS,Penjualan Langsung,,True
+TRX-0604,dummy_sales_arloraka_coffee_750,TRX-0604,FL-007,2026-08-11,approved,1,16000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0605,dummy_sales_arloraka_coffee_750,TRX-0605,FL-007,2026-08-23,approved,3,43000,QRIS,Area Perkantoran,,True
+TRX-0606,dummy_sales_arloraka_coffee_750,TRX-0606,FL-006,2026-07-02,approved,2,30000,Transfer,Acara Organisasi,,True
+TRX-0607,dummy_sales_arloraka_coffee_750,TRX-0607,FL-008,2026-09-02,approved,3,42000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0608,dummy_sales_arloraka_coffee_750,TRX-0608,FL-010,2026-07-28,approved,6,89000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0609,dummy_sales_arloraka_coffee_750,TRX-0609,FL-001,2026-09-21,approved,1,16000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0610,dummy_sales_arloraka_coffee_750,TRX-0610,FL-002,2026-08-06,rejected,2,30000,QRIS,Area Perkantoran,,True
+TRX-0611,dummy_sales_arloraka_coffee_750,TRX-0611,FL-006,2026-07-27,approved,3,42000,QRIS,Area Perkantoran,,True
+TRX-0612,dummy_sales_arloraka_coffee_750,TRX-0612,FL-008,2026-07-24,approved,1,14000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0613,dummy_sales_arloraka_coffee_750,TRX-0613,FL-001,2026-10-16,approved,1,16000,Transfer,Area Perkantoran,,True
+TRX-0614,dummy_sales_arloraka_coffee_750,TRX-0614,FL-002,2026-08-02,approved,1,16000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0615,dummy_sales_arloraka_coffee_750,TRX-0615,FL-010,2026-08-14,approved,6,82000,Cash,Acara Organisasi,,True
+TRX-0616,dummy_sales_arloraka_coffee_750,TRX-0616,FL-006,2026-08-10,approved,2,26000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0617,dummy_sales_arloraka_coffee_750,TRX-0617,FL-007,2026-09-16,approved,2,27000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0618,dummy_sales_arloraka_coffee_750,TRX-0618,FL-002,2026-10-19,approved,3,43000,Cash,Area Perkantoran,,True
+TRX-0619,dummy_sales_arloraka_coffee_750,TRX-0619,FL-003,2026-08-23,approved,3,46000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0620,dummy_sales_arloraka_coffee_750,TRX-0620,FL-003,2026-08-24,approved,1,16000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0621,dummy_sales_arloraka_coffee_750,TRX-0621,FL-009,2026-07-16,approved,5,68000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0622,dummy_sales_arloraka_coffee_750,TRX-0622,FL-006,2026-09-03,approved,2,26000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0623,dummy_sales_arloraka_coffee_750,TRX-0623,FL-005,2026-08-02,approved,1,16000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0624,dummy_sales_arloraka_coffee_750,TRX-0624,FL-008,2026-07-17,approved,3,42000,Cash,Acara Organisasi,,True
+TRX-0625,dummy_sales_arloraka_coffee_750,TRX-0625,FL-001,2026-07-09,approved,1,13000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0626,dummy_sales_arloraka_coffee_750,TRX-0626,FL-006,2026-10-14,rejected,4,53000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0627,dummy_sales_arloraka_coffee_750,TRX-0627,FL-002,2026-07-30,approved,6,82000,QRIS,Acara Organisasi,,True
+TRX-0628,dummy_sales_arloraka_coffee_750,TRX-0628,FL-001,2026-09-11,approved,3,44000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0629,dummy_sales_arloraka_coffee_750,TRX-0629,FL-004,2026-09-17,approved,1,16000,QRIS,Penjualan Langsung,,True
+TRX-0630,dummy_sales_arloraka_coffee_750,TRX-0630,FL-005,2026-08-04,approved,1,14000,QRIS,Area Perkantoran,,True
+TRX-0631,dummy_sales_arloraka_coffee_750,TRX-0631,FL-006,2026-09-15,approved,3,39000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0632,dummy_sales_arloraka_coffee_750,TRX-0632,FL-009,2026-10-06,approved,2,26000,Transfer,Acara Organisasi,,True
+TRX-0633,dummy_sales_arloraka_coffee_750,TRX-0633,FL-008,2026-08-16,approved,5,66000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0634,dummy_sales_arloraka_coffee_750,TRX-0634,FL-004,2026-10-03,approved,2,26000,Cash,Area Perkantoran,,True
+TRX-0635,dummy_sales_arloraka_coffee_750,TRX-0635,FL-002,2026-07-22,approved,1,16000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0636,dummy_sales_arloraka_coffee_750,TRX-0636,FL-008,2026-09-03,approved,2,32000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0637,dummy_sales_arloraka_coffee_750,TRX-0637,FL-005,2026-09-09,approved,4,55000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0638,dummy_sales_arloraka_coffee_750,TRX-0638,FL-006,2026-10-17,approved,1,10000,Cash,Area Perkantoran,,True
+TRX-0639,dummy_sales_arloraka_coffee_750,TRX-0639,FL-006,2026-09-26,pending,4,51000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0640,dummy_sales_arloraka_coffee_750,TRX-0640,FL-005,2026-07-04,approved,1,16000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0641,dummy_sales_arloraka_coffee_750,TRX-0641,FL-002,2026-10-11,approved,1,14000,QRIS,Penjualan Langsung,,True
+TRX-0642,dummy_sales_arloraka_coffee_750,TRX-0642,FL-002,2026-09-11,approved,1,16000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0643,dummy_sales_arloraka_coffee_750,TRX-0643,FL-004,2026-08-20,approved,8,112000,QRIS,Car Free Day,Pembelian dalam jumlah besar,True
+TRX-0644,dummy_sales_arloraka_coffee_750,TRX-0644,FL-010,2026-07-19,approved,2,30000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0645,dummy_sales_arloraka_coffee_750,TRX-0645,FL-001,2026-07-11,approved,1,16000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0646,dummy_sales_arloraka_coffee_750,TRX-0646,FL-002,2026-09-11,approved,1,13000,Cash,Acara Organisasi,,True
+TRX-0647,dummy_sales_arloraka_coffee_750,TRX-0647,FL-005,2026-09-12,approved,3,45000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0648,dummy_sales_arloraka_coffee_750,TRX-0648,FL-008,2026-09-02,approved,10,140000,Cash,Event Komunitas,Pembelian dalam jumlah besar,True
+TRX-0649,dummy_sales_arloraka_coffee_750,TRX-0649,FL-004,2026-08-18,approved,2,28000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0650,dummy_sales_arloraka_coffee_750,TRX-0650,FL-002,2026-09-21,approved,1,13000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0651,dummy_sales_arloraka_coffee_750,TRX-0651,FL-007,2026-07-29,approved,1,16000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0652,dummy_sales_arloraka_coffee_750,TRX-0652,FL-006,2026-07-27,approved,2,26000,QRIS,Penjualan Langsung,,True
+TRX-0653,dummy_sales_arloraka_coffee_750,TRX-0653,FL-010,2026-09-30,approved,1,13000,Transfer,Penjualan Langsung,,True
+TRX-0654,dummy_sales_arloraka_coffee_750,TRX-0654,FL-007,2026-08-26,approved,1,14000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0655,dummy_sales_arloraka_coffee_750,TRX-0655,FL-002,2026-07-12,approved,4,56000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0656,dummy_sales_arloraka_coffee_750,TRX-0656,FL-008,2026-10-19,pending,2,20000,QRIS,Area Perkantoran,,True
+TRX-0657,dummy_sales_arloraka_coffee_750,TRX-0657,FL-008,2026-08-25,approved,2,30000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0658,dummy_sales_arloraka_coffee_750,TRX-0658,FL-003,2026-07-09,approved,3,44000,QRIS,Acara Organisasi,,True
+TRX-0659,dummy_sales_arloraka_coffee_750,TRX-0659,FL-004,2026-10-08,approved,3,45000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0660,dummy_sales_arloraka_coffee_750,TRX-0660,FL-002,2026-07-27,approved,4,59000,Cash,Acara Organisasi,,True
+TRX-0661,dummy_sales_arloraka_coffee_750,TRX-0661,FL-001,2026-09-24,approved,1,10000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0662,dummy_sales_arloraka_coffee_750,TRX-0662,FL-004,2026-07-01,approved,3,43000,Cash,Area Perkantoran,,True
+TRX-0663,dummy_sales_arloraka_coffee_750,TRX-0663,FL-006,2026-07-27,approved,4,59000,QRIS,Area Perkantoran,,True
+TRX-0664,dummy_sales_arloraka_coffee_750,TRX-0664,FL-003,2026-09-09,approved,10,153000,QRIS,Area Kampus,Pembelian dalam jumlah besar,True
+TRX-0665,dummy_sales_arloraka_coffee_750,TRX-0665,FL-010,2026-08-07,approved,3,42000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0666,dummy_sales_arloraka_coffee_750,TRX-0666,FL-007,2026-08-20,approved,1,13000,QRIS,Penjualan Langsung,,True
+TRX-0667,dummy_sales_arloraka_coffee_750,TRX-0667,FL-005,2026-08-16,approved,1,14000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0668,dummy_sales_arloraka_coffee_750,TRX-0668,FL-010,2026-07-13,approved,1,16000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0669,dummy_sales_arloraka_coffee_750,TRX-0669,FL-006,2026-09-14,approved,5,69000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0670,dummy_sales_arloraka_coffee_750,TRX-0670,FL-003,2026-07-27,approved,2,23000,Cash,Penjualan Langsung,,True
+TRX-0671,dummy_sales_arloraka_coffee_750,TRX-0671,FL-001,2026-08-08,approved,3,40000,Cash,Area Perkantoran,,True
+TRX-0672,dummy_sales_arloraka_coffee_750,TRX-0672,FL-003,2026-09-08,approved,2,28000,QRIS,Penjualan Langsung,,True
+TRX-0673,dummy_sales_arloraka_coffee_750,TRX-0673,FL-004,2026-09-25,approved,5,66000,QRIS,Acara Organisasi,,True
+TRX-0674,dummy_sales_arloraka_coffee_750,TRX-0674,FL-010,2026-08-02,approved,1,13000,QRIS,Area Perkantoran,,True
+TRX-0675,dummy_sales_arloraka_coffee_750,TRX-0675,FL-010,2026-07-03,pending,1,13000,QRIS,Area Perkantoran,,True
+TRX-0676,dummy_sales_arloraka_coffee_750,TRX-0676,FL-008,2026-09-13,approved,1,16000,QRIS,Area Perkantoran,,True
+TRX-0677,dummy_sales_arloraka_coffee_750,TRX-0677,FL-004,2026-09-15,approved,4,58000,Cash,Area Perkantoran,,True
+TRX-0678,dummy_sales_arloraka_coffee_750,TRX-0678,FL-005,2026-10-16,approved,1,16000,QRIS,Acara Organisasi,,True
+TRX-0679,dummy_sales_arloraka_coffee_750,TRX-0679,FL-004,2026-10-18,approved,2,24000,QRIS,Area Perkantoran,,True
+TRX-0680,dummy_sales_arloraka_coffee_750,TRX-0680,FL-008,2026-08-16,approved,5,57000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0681,dummy_sales_arloraka_coffee_750,TRX-0681,FL-007,2026-08-09,approved,1,16000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0682,dummy_sales_arloraka_coffee_750,TRX-0682,FL-008,2026-07-15,approved,3,39000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0683,dummy_sales_arloraka_coffee_750,TRX-0683,FL-008,2026-08-26,approved,6,92000,QRIS,Area Perkantoran,,True
+TRX-0684,dummy_sales_arloraka_coffee_750,TRX-0684,FL-004,2026-10-02,approved,2,32000,QRIS,Acara Organisasi,,True
+TRX-0685,dummy_sales_arloraka_coffee_750,TRX-0685,FL-001,2026-08-07,approved,1,14000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0686,dummy_sales_arloraka_coffee_750,TRX-0686,FL-001,2026-08-04,pending,2,32000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0687,dummy_sales_arloraka_coffee_750,TRX-0687,FL-002,2026-08-12,approved,1,16000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0688,dummy_sales_arloraka_coffee_750,TRX-0688,FL-004,2026-07-03,approved,4,59000,QRIS,Acara Organisasi,,True
+TRX-0689,dummy_sales_arloraka_coffee_750,TRX-0689,FL-003,2026-10-06,approved,4,53000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0690,dummy_sales_arloraka_coffee_750,TRX-0690,FL-010,2026-10-14,approved,2,30000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0691,dummy_sales_arloraka_coffee_750,TRX-0691,FL-002,2026-10-19,approved,3,30000,Cash,Acara Organisasi,,True
+TRX-0692,dummy_sales_arloraka_coffee_750,TRX-0692,FL-003,2026-08-27,approved,1,13000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0693,dummy_sales_arloraka_coffee_750,TRX-0693,FL-001,2026-07-09,approved,1,16000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0694,dummy_sales_arloraka_coffee_750,TRX-0694,FL-003,2026-08-22,approved,1,14000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0695,dummy_sales_arloraka_coffee_750,TRX-0695,FL-006,2026-08-24,approved,6,75000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0696,dummy_sales_arloraka_coffee_750,TRX-0696,FL-002,2026-10-02,approved,2,29000,QRIS,Area Perkantoran,,True
+TRX-0697,dummy_sales_arloraka_coffee_750,TRX-0697,FL-001,2026-10-19,approved,1,10000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0698,dummy_sales_arloraka_coffee_750,TRX-0698,FL-005,2026-08-27,approved,3,42000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0699,dummy_sales_arloraka_coffee_750,TRX-0699,FL-001,2026-10-17,approved,4,50000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0700,dummy_sales_arloraka_coffee_750,TRX-0700,FL-006,2026-10-13,approved,1,13000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0701,dummy_sales_arloraka_coffee_750,TRX-0701,FL-004,2026-09-18,approved,6,85000,QRIS,Area Perkantoran,,True
+TRX-0702,dummy_sales_arloraka_coffee_750,TRX-0702,FL-003,2026-08-15,approved,4,59000,QRIS,Acara Organisasi,,True
+TRX-0703,dummy_sales_arloraka_coffee_750,TRX-0703,FL-003,2026-07-22,approved,1,16000,QRIS,Penjualan Langsung,,True
+TRX-0704,dummy_sales_arloraka_coffee_750,TRX-0704,FL-005,2026-08-13,approved,6,91000,Cash,Penjualan Langsung,,True
+TRX-0705,dummy_sales_arloraka_coffee_750,TRX-0705,FL-005,2026-07-11,approved,4,57000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0706,dummy_sales_arloraka_coffee_750,TRX-0706,FL-003,2026-07-20,approved,1,16000,QRIS,Area Perkantoran,,True
+TRX-0707,dummy_sales_arloraka_coffee_750,TRX-0707,FL-002,2026-10-02,approved,1,14000,QRIS,Penjualan Langsung,,True
+TRX-0708,dummy_sales_arloraka_coffee_750,TRX-0708,FL-010,2026-08-26,pending,1,16000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0709,dummy_sales_arloraka_coffee_750,TRX-0709,FL-005,2026-07-08,approved,3,45000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0710,dummy_sales_arloraka_coffee_750,TRX-0710,FL-007,2026-09-02,approved,3,43000,QRIS,Penjualan Langsung,,True
+TRX-0711,dummy_sales_arloraka_coffee_750,TRX-0711,FL-003,2026-07-17,approved,6,84000,QRIS,Acara Organisasi,,True
+TRX-0712,dummy_sales_arloraka_coffee_750,TRX-0712,FL-007,2026-08-24,approved,2,32000,QRIS,Area Perkantoran,,True
+TRX-0713,dummy_sales_arloraka_coffee_750,TRX-0713,FL-005,2026-08-10,approved,3,40000,Transfer,Area Perkantoran,,True
+TRX-0714,dummy_sales_arloraka_coffee_750,TRX-0714,FL-006,2026-07-04,pending,2,32000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0715,dummy_sales_arloraka_coffee_750,TRX-0715,FL-004,2026-08-15,approved,1,10000,Transfer,Area Perkantoran,,True
+TRX-0716,dummy_sales_arloraka_coffee_750,TRX-0716,FL-007,2026-07-28,approved,1,13000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0717,dummy_sales_arloraka_coffee_750,TRX-0717,FL-006,2026-09-11,approved,4,53000,Transfer,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0718,dummy_sales_arloraka_coffee_750,TRX-0718,FL-001,2026-08-28,approved,3,44000,QRIS,Penjualan Langsung,,True
+TRX-0719,dummy_sales_arloraka_coffee_750,TRX-0719,FL-004,2026-07-08,approved,1,16000,QRIS,Area Perkantoran,,True
+TRX-0720,dummy_sales_arloraka_coffee_750,TRX-0720,FL-004,2026-07-19,approved,4,60000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0721,dummy_sales_arloraka_coffee_750,TRX-0721,FL-010,2026-10-01,approved,5,71000,Transfer,Area Perkantoran,,True
+TRX-0722,dummy_sales_arloraka_coffee_750,TRX-0722,FL-005,2026-08-01,rejected,1,16000,Cash,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0723,dummy_sales_arloraka_coffee_750,TRX-0723,FL-004,2026-08-01,approved,2,30000,Transfer,Acara Organisasi,,True
+TRX-0724,dummy_sales_arloraka_coffee_750,TRX-0724,FL-001,2026-10-06,approved,5,72000,QRIS,Acara Organisasi,,True
+TRX-0725,dummy_sales_arloraka_coffee_750,TRX-0725,FL-004,2026-07-23,approved,2,28000,QRIS,Penjualan Langsung,,True
+TRX-0726,dummy_sales_arloraka_coffee_750,TRX-0726,FL-002,2026-07-07,approved,2,27000,Cash,Area Kampus,Penjualan area kampus,True
+TRX-0727,dummy_sales_arloraka_coffee_750,TRX-0727,FL-009,2026-09-19,approved,5,72000,QRIS,Area Perkantoran,,True
+TRX-0728,dummy_sales_arloraka_coffee_750,TRX-0728,FL-007,2026-07-03,approved,1,16000,QRIS,Penjualan Langsung,,True
+TRX-0729,dummy_sales_arloraka_coffee_750,TRX-0729,FL-005,2026-07-08,approved,5,73000,Transfer,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0730,dummy_sales_arloraka_coffee_750,TRX-0730,FL-002,2026-08-08,approved,3,41000,QRIS,Area Perkantoran,,True
+TRX-0731,dummy_sales_arloraka_coffee_750,TRX-0731,FL-007,2026-10-13,approved,3,44000,Transfer,Penjualan Langsung,,True
+TRX-0732,dummy_sales_arloraka_coffee_750,TRX-0732,FL-005,2026-07-13,approved,1,16000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0733,dummy_sales_arloraka_coffee_750,TRX-0733,FL-004,2026-07-22,approved,6,93000,QRIS,Penjualan Langsung,,True
+TRX-0734,dummy_sales_arloraka_coffee_750,TRX-0734,FL-001,2026-08-11,approved,1,14000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0735,dummy_sales_arloraka_coffee_750,TRX-0735,FL-001,2026-07-02,approved,4,58000,QRIS,Acara Organisasi,,True
+TRX-0736,dummy_sales_arloraka_coffee_750,TRX-0736,FL-004,2026-09-28,approved,1,14000,Transfer,Penjualan Langsung,,True
+TRX-0737,dummy_sales_arloraka_coffee_750,TRX-0737,FL-002,2026-07-26,approved,4,47000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0738,dummy_sales_arloraka_coffee_750,TRX-0738,FL-009,2026-08-31,approved,6,79000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0739,dummy_sales_arloraka_coffee_750,TRX-0739,FL-002,2026-10-17,approved,2,26000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0740,dummy_sales_arloraka_coffee_750,TRX-0740,FL-005,2026-08-07,approved,3,40000,QRIS,Area Kampus,Penjualan area kampus,True
+TRX-0741,dummy_sales_arloraka_coffee_750,TRX-0741,FL-002,2026-10-16,approved,2,29000,QRIS,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0742,dummy_sales_arloraka_coffee_750,TRX-0742,FL-003,2026-09-01,approved,2,26000,QRIS,Acara Organisasi,,True
+TRX-0743,dummy_sales_arloraka_coffee_750,TRX-0743,FL-009,2026-09-18,approved,2,32000,Cash,Penjualan Langsung,,True
+TRX-0744,dummy_sales_arloraka_coffee_750,TRX-0744,FL-006,2026-07-10,approved,2,26000,QRIS,Acara Organisasi,,True
+TRX-0745,dummy_sales_arloraka_coffee_750,TRX-0745,FL-003,2026-08-03,approved,5,64000,Transfer,Area Perkantoran,,True
+TRX-0746,dummy_sales_arloraka_coffee_750,TRX-0746,FL-008,2026-08-10,approved,3,36000,Cash,Event Komunitas,Penjualan saat event komunitas,True
+TRX-0747,dummy_sales_arloraka_coffee_750,TRX-0747,FL-002,2026-09-24,approved,1,10000,Transfer,Area Kampus,Penjualan area kampus,True
+TRX-0748,dummy_sales_arloraka_coffee_750,TRX-0748,FL-007,2026-08-26,approved,1,16000,QRIS,Area Perkantoran,,True
+TRX-0749,dummy_sales_arloraka_coffee_750,TRX-0749,FL-008,2026-07-19,approved,3,48000,QRIS,Car Free Day,Penjualan saat kegiatan CFD,True
+TRX-0750,dummy_sales_arloraka_coffee_750,TRX-0750,FL-003,2026-09-10,approved,5,70000,QRIS,Penjualan Langsung,,True

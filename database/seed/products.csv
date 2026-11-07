@@ -1,0 +1,7 @@
+﻿product_id,product_code,product_name,current_price,is_active
+PRD-001,americano,Americano,10000,True
+PRD-002,latte,Latte,13000,True
+PRD-003,aren_latte,Aren Latte,16000,True
+PRD-004,matcha_latte,Matcha Latte,16000,True
+PRD-005,redvelvet_latte,Redvelvet Latte,14000,True
+PRD-006,mocha_latte,Mocha Latte,14000,True

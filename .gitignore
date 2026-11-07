@@ -1,0 +1,71 @@
+# Kredensial dan konfigurasi lokal
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+*service-account*.json
+service_account*.json
+.secrets/
+
+# Python dan notebook
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Frontend dan hasil build
+node_modules/
+.next/
+.nuxt/
+.turbo/
+.vercel/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Berkas lokal, data privat, dan salinan sementara
+/work/
+/outputs/
+/tmp/
+/temp/
+/uploads/
+/storage/private/
+/data/private/
+/data/real/
+*.log
+*.tmp
+*.bak
+*~
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+*.backup
+pgdata/
+
+# Ekspor generator di root; sumber bersama tetap di dummy-data/
+/dummy_sales_arloraka_coffee_*.csv
+/dummy_sales_arloraka_coffee_*.xlsx
+
+# Editor dan sistem operasi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*

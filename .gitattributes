@@ -1,0 +1,17 @@
+* text=auto
+
+# Python, dokumentasi, dan konfigurasi baru memakai akhir baris LF.
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+.env.example text eol=lf
+
+# Pertahankan byte sumber dan SQL yang dirujuk sidik SHA-256 hasil validasi.
+# -text mematikan normalisasi akhir baris; diff teks tetap tersedia.
+*.ipynb -text
+*.csv -text
+*.sql -text
+*.xlsx binary
