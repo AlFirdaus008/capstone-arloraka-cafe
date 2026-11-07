@@ -38,3 +38,9 @@ Gunakan `.env.example` untuk menunjukkan nama variabel yang diperlukan tanpa men
 ## Database dan backend
 
 Pertahankan identitas asal laporan, harga transaksi, dan aturan kontribusi approved ketika menghubungkan aplikasi. Perubahan header dan rincian laporan harus berada dalam satu transaksi. Sertakan migrasi yang dapat diperiksa jika struktur penyimpanan berubah, dan perbarui panduan serta kontrak API yang terdampak.
+
+## Menjalankan pengujian database
+
+Dari root proyek, jalankan `npm --prefix database ci` sekali untuk memasang dependensi sesuai lockfile. Gunakan `npm --prefix database test` sebelum menyerahkan perubahan schema, seed, atau perhitungan database. Perintah biasa tidak mengubah laporan yang dilacak Git.
+
+Jika ingin menyertakan bukti pengujian terbaru, jalankan `npm --prefix database run test:report`, lalu tinjau `database/test_results.json` bersama perubahan yang diuji. Petunjuk skenario dan arti hasil tersedia pada [panduan pengujian](database/tests/README.md).

@@ -2,6 +2,7 @@
 
 # Python, dokumentasi, dan konfigurasi baru memakai akhir baris LF.
 *.py text eol=lf
+*.mjs text eol=lf
 *.md text eol=lf
 *.json text eol=lf
 *.txt text eol=lf

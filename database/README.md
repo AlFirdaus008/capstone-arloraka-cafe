@@ -18,7 +18,9 @@ Rancangan ini disiapkan sebagai acuan implementasi DS-1 dan backend. Struktur ba
 | `seed/sales_report_items.csv` | 1.681 rincian produk berkuantitas positif |
 | `prepare_seed.py` | Membentuk ulang data awal dari CSV dan harga pada notebook generator |
 | `validation_report.json` | Angka kontrol, asal harga, dan sidik berkas sumber |
-| `test_results.json` | Hasil pengujian database sementara untuk versi berkas yang diserahkan |
+| `tests/run-tests.mjs` | Menjalankan 12 skenario uji dengan data awal yang direset setiap skenario |
+| `package.json` dan `package-lock.json` | Perintah tes dan versi dependensi yang dikunci |
+| `test_results.json` | Hasil eksekusi `npm --prefix database run test:report` |
 
 ## Hubungan tabel
 
@@ -178,6 +180,8 @@ Master freelancer atau produk dinonaktifkan melalui `is_active`, dengan histori 
 | Bagian manajemen approved | Rp24.998.400 |
 
 Skema dan seed telah dijalankan pada PostgreSQL 17.5 melalui PGlite di memori. Pengujian meliputi import ulang, harga/nama master yang berubah, koreksi laporan, status, rincian ganda, produk tanpa master, total yang tidak cocok, dan pembulatan komisi. Rincian hasil tersedia pada `test_results.json`. Pengujian tersebut tidak terhubung ke database aplikasi pengguna.
+
+Skrip pengujian sekarang tersedia di repository. Dari root proyek, jalankan `npm --prefix database ci`, lalu `npm --prefix database test`. Gunakan `npm --prefix database run test:report` untuk memperbarui laporan JSON. Lihat [petunjuk pengujian](tests/README.md) untuk rincian kasus dan pembacaan hasil.
 
 Angka di atas berlaku untuk seed awal. Koreksi yang sah dapat mengubah nominal dan kontribusi; hasil rekonsiliasi header-rincian harus tetap tanpa selisih. Backend, pembatasan akses pengguna, pembayaran, dan penggunaan bersamaan pada server belum termasuk pengujian paket ini.
 

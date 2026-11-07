@@ -19,6 +19,9 @@ arloraka-cafe-project/
 │   ├── prepare_seed.py      # Pembentuk data relasional dan SQL seed
 │   ├── column_mapping.csv   # Pemetaan 18 kolom sumber
 │   ├── seed/                # Empat tabel data awal dalam CSV
+│   ├── package.json          # Perintah pengujian database
+│   ├── package-lock.json     # Versi dependensi pengujian
+│   ├── tests/                # Skrip pengujian yang dapat dijalankan ulang
 │   ├── validation_report.json
 │   └── test_results.json
 ├── requirements.txt
@@ -58,7 +61,26 @@ Untuk membentuk ulang data relasional dan SQL dari sumber bersama:
 .\.venv\Scripts\python.exe database/prepare_seed.py
 ```
 
-Proses ini memeriksa CSV sumber, membaca harga literal dari notebook generator, dan menulis hasil turunan ke folder `database`. Jika sumber atau skema berubah, jalankan kembali pemeriksaan yang terdampak. `test_results.json` mencatat pengujian versi awal; hasil tersebut tidak otomatis berlaku untuk perubahan berikutnya.
+Proses ini memeriksa CSV sumber, membaca harga literal dari notebook generator, dan menulis hasil turunan ke folder `database`. Jika sumber atau skema berubah, jalankan kembali pemeriksaan yang terdampak.
+
+## Menjalankan pengujian database
+
+Siapkan Node.js 20 atau lebih baru beserta npm. Dari root repository:
+
+```powershell
+npm --prefix database ci
+npm --prefix database test
+```
+
+Perintah tersebut menjalankan 12 skenario pada PostgreSQL sementara di memori. Setiap skenario dimulai dari data awal yang sama. Koneksi database tim dan `.env` tidak dipakai. Jika suatu pengujian gagal, perintah mengembalikan status gagal agar dapat dipakai pada pemeriksaan otomatis.
+
+Untuk menjalankan tes sekaligus memperbarui bukti hasilnya:
+
+```powershell
+npm --prefix database run test:report
+```
+
+`npm test` tidak mengubah laporan yang tersimpan. `test:report` memperbarui `database/test_results.json`, termasuk jumlah tes lulus/gagal, versi mesin, dan sidik berkas yang diuji. Periksa hasilnya sebelum memasukkan laporan ke commit. Panduan lengkap tersedia di [dokumentasi pengujian](database/tests/README.md).
 
 ## Status awal dan angka kontrol
 

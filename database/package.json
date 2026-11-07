@@ -1,0 +1,17 @@
+{
+  "name": "arloraka-database-tests",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Pengujian schema dan seed database Arloraka Coffee pada PostgreSQL sementara.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node tests/run-tests.mjs",
+    "test:report": "node tests/run-tests.mjs --write-report"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "0.3.14"
+  }
+}
