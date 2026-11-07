@@ -1,0 +1,23 @@
+{
+  "dataset_kind": "dummy",
+  "source_dataset": "ds1_extra_cases_v1",
+  "note": "Data tambahan untuk pengujian; tidak digabungkan ke sumber 750 transaksi atau seed awal.",
+  "groups": {
+    "month_boundary": [
+      {"report_id":"DS1-MONTH-OCT","freelancer_id":"FL-001","sale_date":"2026-10-31","status":"approved","total_bottles":1,"gross_amount":14000,"items":[{"product_id":"PRD-006","product_name_at_sale":"Mocha Latte","quantity":1,"unit_price_at_sale":14000}]},
+      {"report_id":"DS1-MONTH-NOV","freelancer_id":"FL-001","sale_date":"2026-11-01","status":"approved","total_bottles":2,"gross_amount":32000,"items":[{"product_id":"PRD-003","product_name_at_sale":"Aren Latte","quantity":2,"unit_price_at_sale":16000}]}
+    ],
+    "late_approval": [
+      {"report_id":"DS1-LATE-OCT","freelancer_id":"FL-001","sale_date":"2026-10-31","status":"pending","total_bottles":1,"gross_amount":16000,"items":[{"product_id":"PRD-003","product_name_at_sale":"Aren Latte","quantity":1,"unit_price_at_sale":16000}]}
+    ],
+    "monthly_rounding": [
+      {"report_id":"DS1-ROUND-A","freelancer_id":"FL-001","sale_date":"2026-11-01","status":"approved","total_bottles":1,"gross_amount":15005,"items":[{"product_id":"PRD-001","product_name_at_sale":"Americano uji pembulatan","quantity":1,"unit_price_at_sale":15005}]},
+      {"report_id":"DS1-ROUND-B","freelancer_id":"FL-001","sale_date":"2026-11-01","status":"approved","total_bottles":1,"gross_amount":15005,"items":[{"product_id":"PRD-001","product_name_at_sale":"Americano uji pembulatan","quantity":1,"unit_price_at_sale":15005}]}
+    ],
+    "target_scope": [
+      {"report_id":"DS1-TARGET-A","freelancer_id":"FL-001","sale_date":"2026-11-02","status":"approved","total_bottles":3,"gross_amount":42000,"items":[{"product_id":"PRD-006","product_name_at_sale":"Mocha Latte","quantity":3,"unit_price_at_sale":14000}]},
+      {"report_id":"DS1-TARGET-B","freelancer_id":"FL-002","sale_date":"2026-11-02","status":"approved","total_bottles":3,"gross_amount":42000,"items":[{"product_id":"PRD-006","product_name_at_sale":"Mocha Latte","quantity":3,"unit_price_at_sale":14000}]},
+      {"report_id":"DS1-TARGET-PENDING","freelancer_id":"FL-001","sale_date":"2026-11-02","status":"pending","total_bottles":1,"gross_amount":14000,"items":[{"product_id":"PRD-006","product_name_at_sale":"Mocha Latte","quantity":1,"unit_price_at_sale":14000}]}
+    ]
+  }
+}

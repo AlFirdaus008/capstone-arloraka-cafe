@@ -1,0 +1,109 @@
+{
+  "suite": "REFERENCE",
+  "engine": "PostgreSQL 17.5 on aarch64-unknown-linux-gnu, compiled by emcc (Emscripten gcc/clang-like replacement + linker emulating GNU ld) 3.1.74 (1092ec30a3fb1d46b1782ff1b4db5094d3d06ae5), 32-bit",
+  "generated_at_utc": "2026-11-07T13:55:06.587Z",
+  "test_environment": "PGlite in-memory; tidak memakai database aplikasi atau kredensial",
+  "expected_test_count": 14,
+  "all_passed": true,
+  "tested_files": {
+    "database/schema.sql": "83ea68858601406d055a30e48dcacaca99bc4f856f7ee4376499373b076a3462",
+    "database/seed.sql": "d0fd1cf40f18a488dbbd163d6537391369bff329d87da8ebeb92f7c64b616bfc",
+    "analysis/dashboard_queries.sql": "b8772b652ba0f8d039e372d7e062d84a7264736421de3934edb06004e2054c18",
+    "analysis/build_reference.py": "fe39c72ae05e78afaa70f8eedcf1c4bc7fa07c54563f4f8ad815758c08a6fb76",
+    "analysis/reference/dashboard_reference.json": "a164792019aa146b999c530b3c83936572dce77db886109e76af0edd58e207da",
+    "dummy-data/dummy_sales_arloraka_coffee_750.csv": "d87083c5b1ee814dfbf5a2a2171b60ba939d67b97c6d36eca440c91443b37951",
+    "DataDummyCafe.ipynb": "7b28dbe349404c5345801561ca91be65b1caf208083790cae4574192b293762d",
+    "database/tests/helpers.mjs": "768d8409faf7c2344b1ea7a02322075224fe84e854046f538e4dfa52d08fa89e",
+    "database/tests/check-dashboard-reference.mjs": "6e05b7e08c914c1e3e72c25f0b18340986504a48af430e104ebe1d5db4fb19d3"
+  },
+  "tests": [
+    {
+      "id": "REF-01",
+      "name": "Ringkasan SQL cocok dengan CSV sumber dan sidik sumber masih sesuai",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "REF-02",
+      "name": "Rekap harian cocok dengan perhitungan sumber",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "REF-03",
+      "name": "Rekap bulanan cocok dengan perhitungan sumber",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "REF-04",
+      "name": "Kontribusi per freelancer cocok dengan perhitungan sumber",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "REF-05",
+      "name": "Penjualan per produk cocok dengan perhitungan sumber",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "REF-06",
+      "name": "Jumlah laporan per status cocok dengan perhitungan sumber",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "REF-07",
+      "name": "Filter all_period",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "REF-08",
+      "name": "Filter july",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "REF-09",
+      "name": "Filter october_partial",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "REF-10",
+      "name": "Filter first_day",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "REF-11",
+      "name": "Filter freelancer_fl001",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "REF-12",
+      "name": "Filter freelancer_fl001_july",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "REF-13",
+      "name": "Filter empty_period",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "REF-14",
+      "name": "Filter pending_only_scope",
+      "status": "passed",
+      "passed": true
+    }
+  ],
+  "scope": "Acuan SQL dan data simulasi DS-1; belum membuktikan perilaku API, hak akses, scheduler pengakuan, atau UI aplikasi.",
+  "passed_count": 14,
+  "failed_count": 0,
+  "not_run_count": 0
+}

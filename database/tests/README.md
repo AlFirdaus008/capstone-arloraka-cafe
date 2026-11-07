@@ -60,3 +60,18 @@ Tes membaca `schema.sql`, `seed.sql`, dan `verify.sql` yang sudah tersedia. Skri
 Jika perubahan bisnis memang mengubah angka kontrol, dokumentasikan alasannya dan perbarui acuan yang relevan di skrip beserta assessment. Jika sebuah constraint dihapus tanpa menyesuaikan kebutuhan bisnis, tes penolakan terkait harus gagal.
 
 Pengujian ini mencakup fondasi transaksi dan seed. Backend, pembatasan akses pengguna, file bukti, pengakuan/pembayaran komisi aktual, dan penggunaan bersamaan pada server masih memerlukan pengujian integrasi tersendiri.
+
+## Suite tambahan DS-1
+
+Perintah lama `test` dan `test:report` tetap menjalankan 12 skenario inti. Perintah berikut menambah pemeriksaan kasus dan hasil dashboard:
+
+| Perintah dari root proyek | Cakupan |
+|---|---|
+| `npm --prefix database run test:scenarios` | 9 skenario tambahan DS1-13 sampai DS1-21 |
+| `npm --prefix database run test:reference` | 14 pemeriksaan hasil query terhadap acuan CSV sumber |
+| `npm --prefix database run test:all` | Seluruh 35 pemeriksaan tanpa mengubah laporan |
+| `npm --prefix database run test:all:report` | Seluruh pemeriksaan dan pembaruan ketiga laporan JSON |
+
+Skenario tambahan mereset seed untuk setiap kasus. Suite acuan membaca data yang sama tanpa mengubah laporan sumber; pemeriksaan produk juga mengubah harga master pada database sementara untuk membuktikan query tetap memakai harga transaksi. Jika satu suite gagal, `run-all.mjs` berhenti dengan status gagal dan suite berikutnya tidak dijalankan. Periksa waktu serta sidik berkas pada setiap laporan karena laporan dari suite yang belum dijalankan dapat berasal dari eksekusi sebelumnya.
+
+[Tabel skenario](../../docs/ds1-test-cases.md), [progres DS-1](../../docs/ds1-progress.md), dan [definisi acuan](../../analysis/README.md) menjelaskan data, rumus, serta batas bukti pengujiannya. Target pada suite tambahan adalah input acuan query, dan belum merupakan fitur target tersimpan pada aplikasi.

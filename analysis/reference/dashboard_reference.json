@@ -1,0 +1,1284 @@
+{
+  "dataset_kind": "dummy",
+  "source_dataset": "dummy_sales_arloraka_coffee_750",
+  "source_csv_sha256": "d87083c5b1ee814dfbf5a2a2171b60ba939d67b97c6d36eca440c91443b37951",
+  "generator_sha256": "7b28dbe349404c5345801561ca91be65b1caf208083790cae4574192b293762d",
+  "method": "CSV mentah + harga literal generator; tidak membaca seed SQL, hasil query, atau CSV database.",
+  "period_start": "2026-07-01",
+  "period_end": "2026-10-20",
+  "monthly_coverage": {
+    "2026-07": {
+      "period_start": "2026-07-01",
+      "period_end": "2026-07-31",
+      "complete_calendar_month": true
+    },
+    "2026-08": {
+      "period_start": "2026-08-01",
+      "period_end": "2026-08-31",
+      "complete_calendar_month": true
+    },
+    "2026-09": {
+      "period_start": "2026-09-01",
+      "period_end": "2026-09-30",
+      "complete_calendar_month": true
+    },
+    "2026-10": {
+      "period_start": "2026-10-01",
+      "period_end": "2026-10-20",
+      "complete_calendar_month": false
+    }
+  },
+  "summary": {
+    "reports_total": 750,
+    "approved_reports": 693,
+    "pending_reports": 42,
+    "rejected_reports": 15,
+    "revision_reports": 0,
+    "approved_bottles": 1986,
+    "approved_gross": 27776000,
+    "approved_commission": 2777600,
+    "approved_management": 24998400
+  },
+  "daily": [
+    {
+      "sale_date": "2026-07-01",
+      "approved_reports": 2,
+      "approved_bottles": 6,
+      "approved_gross": 89000,
+      "approved_commission": 8900,
+      "approved_management": 80100
+    },
+    {
+      "sale_date": "2026-07-02",
+      "approved_reports": 6,
+      "approved_bottles": 13,
+      "approved_gross": 177000,
+      "approved_commission": 17700,
+      "approved_management": 159300
+    },
+    {
+      "sale_date": "2026-07-03",
+      "approved_reports": 8,
+      "approved_bottles": 36,
+      "approved_gross": 496000,
+      "approved_commission": 49600,
+      "approved_management": 446400
+    },
+    {
+      "sale_date": "2026-07-04",
+      "approved_reports": 7,
+      "approved_bottles": 24,
+      "approved_gross": 346000,
+      "approved_commission": 34600,
+      "approved_management": 311400
+    },
+    {
+      "sale_date": "2026-07-05",
+      "approved_reports": 9,
+      "approved_bottles": 24,
+      "approved_gross": 335000,
+      "approved_commission": 33500,
+      "approved_management": 301500
+    },
+    {
+      "sale_date": "2026-07-06",
+      "approved_reports": 3,
+      "approved_bottles": 8,
+      "approved_gross": 106000,
+      "approved_commission": 10600,
+      "approved_management": 95400
+    },
+    {
+      "sale_date": "2026-07-07",
+      "approved_reports": 5,
+      "approved_bottles": 14,
+      "approved_gross": 203000,
+      "approved_commission": 20300,
+      "approved_management": 182700
+    },
+    {
+      "sale_date": "2026-07-08",
+      "approved_reports": 7,
+      "approved_bottles": 15,
+      "approved_gross": 223000,
+      "approved_commission": 22300,
+      "approved_management": 200700
+    },
+    {
+      "sale_date": "2026-07-09",
+      "approved_reports": 7,
+      "approved_bottles": 14,
+      "approved_gross": 191000,
+      "approved_commission": 19100,
+      "approved_management": 171900
+    },
+    {
+      "sale_date": "2026-07-10",
+      "approved_reports": 7,
+      "approved_bottles": 16,
+      "approved_gross": 232000,
+      "approved_commission": 23200,
+      "approved_management": 208800
+    },
+    {
+      "sale_date": "2026-07-11",
+      "approved_reports": 7,
+      "approved_bottles": 25,
+      "approved_gross": 358000,
+      "approved_commission": 35800,
+      "approved_management": 322200
+    },
+    {
+      "sale_date": "2026-07-12",
+      "approved_reports": 11,
+      "approved_bottles": 36,
+      "approved_gross": 514000,
+      "approved_commission": 51400,
+      "approved_management": 462600
+    },
+    {
+      "sale_date": "2026-07-13",
+      "approved_reports": 11,
+      "approved_bottles": 25,
+      "approved_gross": 348000,
+      "approved_commission": 34800,
+      "approved_management": 313200
+    },
+    {
+      "sale_date": "2026-07-14",
+      "approved_reports": 3,
+      "approved_bottles": 11,
+      "approved_gross": 151000,
+      "approved_commission": 15100,
+      "approved_management": 135900
+    },
+    {
+      "sale_date": "2026-07-15",
+      "approved_reports": 4,
+      "approved_bottles": 12,
+      "approved_gross": 156000,
+      "approved_commission": 15600,
+      "approved_management": 140400
+    },
+    {
+      "sale_date": "2026-07-16",
+      "approved_reports": 6,
+      "approved_bottles": 26,
+      "approved_gross": 374000,
+      "approved_commission": 37400,
+      "approved_management": 336600
+    },
+    {
+      "sale_date": "2026-07-17",
+      "approved_reports": 6,
+      "approved_bottles": 16,
+      "approved_gross": 221000,
+      "approved_commission": 22100,
+      "approved_management": 198900
+    },
+    {
+      "sale_date": "2026-07-18",
+      "approved_reports": 10,
+      "approved_bottles": 26,
+      "approved_gross": 360000,
+      "approved_commission": 36000,
+      "approved_management": 324000
+    },
+    {
+      "sale_date": "2026-07-19",
+      "approved_reports": 9,
+      "approved_bottles": 25,
+      "approved_gross": 375000,
+      "approved_commission": 37500,
+      "approved_management": 337500
+    },
+    {
+      "sale_date": "2026-07-20",
+      "approved_reports": 2,
+      "approved_bottles": 2,
+      "approved_gross": 32000,
+      "approved_commission": 3200,
+      "approved_management": 28800
+    },
+    {
+      "sale_date": "2026-07-21",
+      "approved_reports": 2,
+      "approved_bottles": 9,
+      "approved_gross": 119000,
+      "approved_commission": 11900,
+      "approved_management": 107100
+    },
+    {
+      "sale_date": "2026-07-22",
+      "approved_reports": 3,
+      "approved_bottles": 8,
+      "approved_gross": 125000,
+      "approved_commission": 12500,
+      "approved_management": 112500
+    },
+    {
+      "sale_date": "2026-07-23",
+      "approved_reports": 4,
+      "approved_bottles": 12,
+      "approved_gross": 158000,
+      "approved_commission": 15800,
+      "approved_management": 142200
+    },
+    {
+      "sale_date": "2026-07-24",
+      "approved_reports": 4,
+      "approved_bottles": 7,
+      "approved_gross": 106000,
+      "approved_commission": 10600,
+      "approved_management": 95400
+    },
+    {
+      "sale_date": "2026-07-25",
+      "approved_reports": 6,
+      "approved_bottles": 15,
+      "approved_gross": 186000,
+      "approved_commission": 18600,
+      "approved_management": 167400
+    },
+    {
+      "sale_date": "2026-07-26",
+      "approved_reports": 7,
+      "approved_bottles": 19,
+      "approved_gross": 254000,
+      "approved_commission": 25400,
+      "approved_management": 228600
+    },
+    {
+      "sale_date": "2026-07-27",
+      "approved_reports": 9,
+      "approved_bottles": 22,
+      "approved_gross": 295000,
+      "approved_commission": 29500,
+      "approved_management": 265500
+    },
+    {
+      "sale_date": "2026-07-28",
+      "approved_reports": 7,
+      "approved_bottles": 25,
+      "approved_gross": 355000,
+      "approved_commission": 35500,
+      "approved_management": 319500
+    },
+    {
+      "sale_date": "2026-07-29",
+      "approved_reports": 5,
+      "approved_bottles": 8,
+      "approved_gross": 113000,
+      "approved_commission": 11300,
+      "approved_management": 101700
+    },
+    {
+      "sale_date": "2026-07-30",
+      "approved_reports": 2,
+      "approved_bottles": 11,
+      "approved_gross": 153000,
+      "approved_commission": 15300,
+      "approved_management": 137700
+    },
+    {
+      "sale_date": "2026-07-31",
+      "approved_reports": 8,
+      "approved_bottles": 16,
+      "approved_gross": 223000,
+      "approved_commission": 22300,
+      "approved_management": 200700
+    },
+    {
+      "sale_date": "2026-08-01",
+      "approved_reports": 13,
+      "approved_bottles": 38,
+      "approved_gross": 545000,
+      "approved_commission": 54500,
+      "approved_management": 490500
+    },
+    {
+      "sale_date": "2026-08-02",
+      "approved_reports": 8,
+      "approved_bottles": 26,
+      "approved_gross": 360000,
+      "approved_commission": 36000,
+      "approved_management": 324000
+    },
+    {
+      "sale_date": "2026-08-03",
+      "approved_reports": 4,
+      "approved_bottles": 14,
+      "approved_gross": 190000,
+      "approved_commission": 19000,
+      "approved_management": 171000
+    },
+    {
+      "sale_date": "2026-08-04",
+      "approved_reports": 6,
+      "approved_bottles": 19,
+      "approved_gross": 276000,
+      "approved_commission": 27600,
+      "approved_management": 248400
+    },
+    {
+      "sale_date": "2026-08-05",
+      "approved_reports": 6,
+      "approved_bottles": 12,
+      "approved_gross": 171000,
+      "approved_commission": 17100,
+      "approved_management": 153900
+    },
+    {
+      "sale_date": "2026-08-06",
+      "approved_reports": 1,
+      "approved_bottles": 1,
+      "approved_gross": 16000,
+      "approved_commission": 1600,
+      "approved_management": 14400
+    },
+    {
+      "sale_date": "2026-08-07",
+      "approved_reports": 9,
+      "approved_bottles": 19,
+      "approved_gross": 255000,
+      "approved_commission": 25500,
+      "approved_management": 229500
+    },
+    {
+      "sale_date": "2026-08-08",
+      "approved_reports": 4,
+      "approved_bottles": 12,
+      "approved_gross": 164000,
+      "approved_commission": 16400,
+      "approved_management": 147600
+    },
+    {
+      "sale_date": "2026-08-09",
+      "approved_reports": 10,
+      "approved_bottles": 28,
+      "approved_gross": 399000,
+      "approved_commission": 39900,
+      "approved_management": 359100
+    },
+    {
+      "sale_date": "2026-08-10",
+      "approved_reports": 4,
+      "approved_bottles": 18,
+      "approved_gross": 239000,
+      "approved_commission": 23900,
+      "approved_management": 215100
+    },
+    {
+      "sale_date": "2026-08-11",
+      "approved_reports": 12,
+      "approved_bottles": 29,
+      "approved_gross": 405000,
+      "approved_commission": 40500,
+      "approved_management": 364500
+    },
+    {
+      "sale_date": "2026-08-12",
+      "approved_reports": 4,
+      "approved_bottles": 5,
+      "approved_gross": 75000,
+      "approved_commission": 7500,
+      "approved_management": 67500
+    },
+    {
+      "sale_date": "2026-08-13",
+      "approved_reports": 7,
+      "approved_bottles": 27,
+      "approved_gross": 386000,
+      "approved_commission": 38600,
+      "approved_management": 347400
+    },
+    {
+      "sale_date": "2026-08-14",
+      "approved_reports": 13,
+      "approved_bottles": 43,
+      "approved_gross": 622000,
+      "approved_commission": 62200,
+      "approved_management": 559800
+    },
+    {
+      "sale_date": "2026-08-15",
+      "approved_reports": 10,
+      "approved_bottles": 22,
+      "approved_gross": 317000,
+      "approved_commission": 31700,
+      "approved_management": 285300
+    },
+    {
+      "sale_date": "2026-08-16",
+      "approved_reports": 7,
+      "approved_bottles": 21,
+      "approved_gross": 267000,
+      "approved_commission": 26700,
+      "approved_management": 240300
+    },
+    {
+      "sale_date": "2026-08-17",
+      "approved_reports": 2,
+      "approved_bottles": 5,
+      "approved_gross": 75000,
+      "approved_commission": 7500,
+      "approved_management": 67500
+    },
+    {
+      "sale_date": "2026-08-18",
+      "approved_reports": 6,
+      "approved_bottles": 11,
+      "approved_gross": 158000,
+      "approved_commission": 15800,
+      "approved_management": 142200
+    },
+    {
+      "sale_date": "2026-08-19",
+      "approved_reports": 4,
+      "approved_bottles": 10,
+      "approved_gross": 146000,
+      "approved_commission": 14600,
+      "approved_management": 131400
+    },
+    {
+      "sale_date": "2026-08-20",
+      "approved_reports": 9,
+      "approved_bottles": 28,
+      "approved_gross": 379000,
+      "approved_commission": 37900,
+      "approved_management": 341100
+    },
+    {
+      "sale_date": "2026-08-21",
+      "approved_reports": 5,
+      "approved_bottles": 14,
+      "approved_gross": 198000,
+      "approved_commission": 19800,
+      "approved_management": 178200
+    },
+    {
+      "sale_date": "2026-08-22",
+      "approved_reports": 5,
+      "approved_bottles": 18,
+      "approved_gross": 253000,
+      "approved_commission": 25300,
+      "approved_management": 227700
+    },
+    {
+      "sale_date": "2026-08-23",
+      "approved_reports": 7,
+      "approved_bottles": 16,
+      "approved_gross": 232000,
+      "approved_commission": 23200,
+      "approved_management": 208800
+    },
+    {
+      "sale_date": "2026-08-24",
+      "approved_reports": 9,
+      "approved_bottles": 26,
+      "approved_gross": 368000,
+      "approved_commission": 36800,
+      "approved_management": 331200
+    },
+    {
+      "sale_date": "2026-08-25",
+      "approved_reports": 5,
+      "approved_bottles": 11,
+      "approved_gross": 148000,
+      "approved_commission": 14800,
+      "approved_management": 133200
+    },
+    {
+      "sale_date": "2026-08-26",
+      "approved_reports": 6,
+      "approved_bottles": 15,
+      "approved_gross": 221000,
+      "approved_commission": 22100,
+      "approved_management": 198900
+    },
+    {
+      "sale_date": "2026-08-27",
+      "approved_reports": 7,
+      "approved_bottles": 14,
+      "approved_gross": 182000,
+      "approved_commission": 18200,
+      "approved_management": 163800
+    },
+    {
+      "sale_date": "2026-08-28",
+      "approved_reports": 7,
+      "approved_bottles": 29,
+      "approved_gross": 403000,
+      "approved_commission": 40300,
+      "approved_management": 362700
+    },
+    {
+      "sale_date": "2026-08-29",
+      "approved_reports": 5,
+      "approved_bottles": 22,
+      "approved_gross": 309000,
+      "approved_commission": 30900,
+      "approved_management": 278100
+    },
+    {
+      "sale_date": "2026-08-30",
+      "approved_reports": 8,
+      "approved_bottles": 17,
+      "approved_gross": 242000,
+      "approved_commission": 24200,
+      "approved_management": 217800
+    },
+    {
+      "sale_date": "2026-08-31",
+      "approved_reports": 4,
+      "approved_bottles": 19,
+      "approved_gross": 252000,
+      "approved_commission": 25200,
+      "approved_management": 226800
+    },
+    {
+      "sale_date": "2026-09-01",
+      "approved_reports": 4,
+      "approved_bottles": 9,
+      "approved_gross": 115000,
+      "approved_commission": 11500,
+      "approved_management": 103500
+    },
+    {
+      "sale_date": "2026-09-02",
+      "approved_reports": 9,
+      "approved_bottles": 28,
+      "approved_gross": 399000,
+      "approved_commission": 39900,
+      "approved_management": 359100
+    },
+    {
+      "sale_date": "2026-09-03",
+      "approved_reports": 7,
+      "approved_bottles": 22,
+      "approved_gross": 313000,
+      "approved_commission": 31300,
+      "approved_management": 281700
+    },
+    {
+      "sale_date": "2026-09-04",
+      "approved_reports": 5,
+      "approved_bottles": 10,
+      "approved_gross": 133000,
+      "approved_commission": 13300,
+      "approved_management": 119700
+    },
+    {
+      "sale_date": "2026-09-05",
+      "approved_reports": 10,
+      "approved_bottles": 30,
+      "approved_gross": 433000,
+      "approved_commission": 43300,
+      "approved_management": 389700
+    },
+    {
+      "sale_date": "2026-09-06",
+      "approved_reports": 4,
+      "approved_bottles": 14,
+      "approved_gross": 203000,
+      "approved_commission": 20300,
+      "approved_management": 182700
+    },
+    {
+      "sale_date": "2026-09-07",
+      "approved_reports": 6,
+      "approved_bottles": 10,
+      "approved_gross": 130000,
+      "approved_commission": 13000,
+      "approved_management": 117000
+    },
+    {
+      "sale_date": "2026-09-08",
+      "approved_reports": 5,
+      "approved_bottles": 16,
+      "approved_gross": 223000,
+      "approved_commission": 22300,
+      "approved_management": 200700
+    },
+    {
+      "sale_date": "2026-09-09",
+      "approved_reports": 4,
+      "approved_bottles": 21,
+      "approved_gross": 301000,
+      "approved_commission": 30100,
+      "approved_management": 270900
+    },
+    {
+      "sale_date": "2026-09-10",
+      "approved_reports": 5,
+      "approved_bottles": 16,
+      "approved_gross": 224000,
+      "approved_commission": 22400,
+      "approved_management": 201600
+    },
+    {
+      "sale_date": "2026-09-11",
+      "approved_reports": 12,
+      "approved_bottles": 31,
+      "approved_gross": 439000,
+      "approved_commission": 43900,
+      "approved_management": 395100
+    },
+    {
+      "sale_date": "2026-09-12",
+      "approved_reports": 8,
+      "approved_bottles": 21,
+      "approved_gross": 290000,
+      "approved_commission": 29000,
+      "approved_management": 261000
+    },
+    {
+      "sale_date": "2026-09-13",
+      "approved_reports": 6,
+      "approved_bottles": 19,
+      "approved_gross": 268000,
+      "approved_commission": 26800,
+      "approved_management": 241200
+    },
+    {
+      "sale_date": "2026-09-14",
+      "approved_reports": 12,
+      "approved_bottles": 43,
+      "approved_gross": 591000,
+      "approved_commission": 59100,
+      "approved_management": 531900
+    },
+    {
+      "sale_date": "2026-09-15",
+      "approved_reports": 3,
+      "approved_bottles": 10,
+      "approved_gross": 139000,
+      "approved_commission": 13900,
+      "approved_management": 125100
+    },
+    {
+      "sale_date": "2026-09-16",
+      "approved_reports": 6,
+      "approved_bottles": 18,
+      "approved_gross": 235000,
+      "approved_commission": 23500,
+      "approved_management": 211500
+    },
+    {
+      "sale_date": "2026-09-17",
+      "approved_reports": 4,
+      "approved_bottles": 12,
+      "approved_gross": 174000,
+      "approved_commission": 17400,
+      "approved_management": 156600
+    },
+    {
+      "sale_date": "2026-09-18",
+      "approved_reports": 8,
+      "approved_bottles": 20,
+      "approved_gross": 277000,
+      "approved_commission": 27700,
+      "approved_management": 249300
+    },
+    {
+      "sale_date": "2026-09-19",
+      "approved_reports": 4,
+      "approved_bottles": 20,
+      "approved_gross": 283000,
+      "approved_commission": 28300,
+      "approved_management": 254700
+    },
+    {
+      "sale_date": "2026-09-20",
+      "approved_reports": 3,
+      "approved_bottles": 10,
+      "approved_gross": 131000,
+      "approved_commission": 13100,
+      "approved_management": 117900
+    },
+    {
+      "sale_date": "2026-09-21",
+      "approved_reports": 3,
+      "approved_bottles": 7,
+      "approved_gross": 103000,
+      "approved_commission": 10300,
+      "approved_management": 92700
+    },
+    {
+      "sale_date": "2026-09-22",
+      "approved_reports": 5,
+      "approved_bottles": 16,
+      "approved_gross": 220000,
+      "approved_commission": 22000,
+      "approved_management": 198000
+    },
+    {
+      "sale_date": "2026-09-23",
+      "approved_reports": 2,
+      "approved_bottles": 7,
+      "approved_gross": 85000,
+      "approved_commission": 8500,
+      "approved_management": 76500
+    },
+    {
+      "sale_date": "2026-09-24",
+      "approved_reports": 6,
+      "approved_bottles": 17,
+      "approved_gross": 229000,
+      "approved_commission": 22900,
+      "approved_management": 206100
+    },
+    {
+      "sale_date": "2026-09-25",
+      "approved_reports": 10,
+      "approved_bottles": 32,
+      "approved_gross": 426000,
+      "approved_commission": 42600,
+      "approved_management": 383400
+    },
+    {
+      "sale_date": "2026-09-26",
+      "approved_reports": 5,
+      "approved_bottles": 16,
+      "approved_gross": 219000,
+      "approved_commission": 21900,
+      "approved_management": 197100
+    },
+    {
+      "sale_date": "2026-09-27",
+      "approved_reports": 6,
+      "approved_bottles": 17,
+      "approved_gross": 223000,
+      "approved_commission": 22300,
+      "approved_management": 200700
+    },
+    {
+      "sale_date": "2026-09-28",
+      "approved_reports": 7,
+      "approved_bottles": 15,
+      "approved_gross": 204000,
+      "approved_commission": 20400,
+      "approved_management": 183600
+    },
+    {
+      "sale_date": "2026-09-29",
+      "approved_reports": 10,
+      "approved_bottles": 25,
+      "approved_gross": 352000,
+      "approved_commission": 35200,
+      "approved_management": 316800
+    },
+    {
+      "sale_date": "2026-09-30",
+      "approved_reports": 4,
+      "approved_bottles": 7,
+      "approved_gross": 102000,
+      "approved_commission": 10200,
+      "approved_management": 91800
+    },
+    {
+      "sale_date": "2026-10-01",
+      "approved_reports": 7,
+      "approved_bottles": 20,
+      "approved_gross": 279000,
+      "approved_commission": 27900,
+      "approved_management": 251100
+    },
+    {
+      "sale_date": "2026-10-02",
+      "approved_reports": 8,
+      "approved_bottles": 14,
+      "approved_gross": 200000,
+      "approved_commission": 20000,
+      "approved_management": 180000
+    },
+    {
+      "sale_date": "2026-10-03",
+      "approved_reports": 4,
+      "approved_bottles": 11,
+      "approved_gross": 155000,
+      "approved_commission": 15500,
+      "approved_management": 139500
+    },
+    {
+      "sale_date": "2026-10-04",
+      "approved_reports": 6,
+      "approved_bottles": 25,
+      "approved_gross": 354000,
+      "approved_commission": 35400,
+      "approved_management": 318600
+    },
+    {
+      "sale_date": "2026-10-05",
+      "approved_reports": 2,
+      "approved_bottles": 4,
+      "approved_gross": 56000,
+      "approved_commission": 5600,
+      "approved_management": 50400
+    },
+    {
+      "sale_date": "2026-10-06",
+      "approved_reports": 7,
+      "approved_bottles": 24,
+      "approved_gross": 342000,
+      "approved_commission": 34200,
+      "approved_management": 307800
+    },
+    {
+      "sale_date": "2026-10-07",
+      "approved_reports": 6,
+      "approved_bottles": 14,
+      "approved_gross": 190000,
+      "approved_commission": 19000,
+      "approved_management": 171000
+    },
+    {
+      "sale_date": "2026-10-08",
+      "approved_reports": 3,
+      "approved_bottles": 11,
+      "approved_gross": 156000,
+      "approved_commission": 15600,
+      "approved_management": 140400
+    },
+    {
+      "sale_date": "2026-10-09",
+      "approved_reports": 6,
+      "approved_bottles": 17,
+      "approved_gross": 241000,
+      "approved_commission": 24100,
+      "approved_management": 216900
+    },
+    {
+      "sale_date": "2026-10-10",
+      "approved_reports": 5,
+      "approved_bottles": 12,
+      "approved_gross": 163000,
+      "approved_commission": 16300,
+      "approved_management": 146700
+    },
+    {
+      "sale_date": "2026-10-11",
+      "approved_reports": 6,
+      "approved_bottles": 10,
+      "approved_gross": 139000,
+      "approved_commission": 13900,
+      "approved_management": 125100
+    },
+    {
+      "sale_date": "2026-10-12",
+      "approved_reports": 5,
+      "approved_bottles": 20,
+      "approved_gross": 291000,
+      "approved_commission": 29100,
+      "approved_management": 261900
+    },
+    {
+      "sale_date": "2026-10-13",
+      "approved_reports": 5,
+      "approved_bottles": 11,
+      "approved_gross": 150000,
+      "approved_commission": 15000,
+      "approved_management": 135000
+    },
+    {
+      "sale_date": "2026-10-14",
+      "approved_reports": 8,
+      "approved_bottles": 32,
+      "approved_gross": 471000,
+      "approved_commission": 47100,
+      "approved_management": 423900
+    },
+    {
+      "sale_date": "2026-10-15",
+      "approved_reports": 6,
+      "approved_bottles": 20,
+      "approved_gross": 296000,
+      "approved_commission": 29600,
+      "approved_management": 266400
+    },
+    {
+      "sale_date": "2026-10-16",
+      "approved_reports": 8,
+      "approved_bottles": 21,
+      "approved_gross": 292000,
+      "approved_commission": 29200,
+      "approved_management": 262800
+    },
+    {
+      "sale_date": "2026-10-17",
+      "approved_reports": 9,
+      "approved_bottles": 23,
+      "approved_gross": 316000,
+      "approved_commission": 31600,
+      "approved_management": 284400
+    },
+    {
+      "sale_date": "2026-10-18",
+      "approved_reports": 7,
+      "approved_bottles": 16,
+      "approved_gross": 231000,
+      "approved_commission": 23100,
+      "approved_management": 207900
+    },
+    {
+      "sale_date": "2026-10-19",
+      "approved_reports": 6,
+      "approved_bottles": 21,
+      "approved_gross": 280000,
+      "approved_commission": 28000,
+      "approved_management": 252000
+    },
+    {
+      "sale_date": "2026-10-20",
+      "approved_reports": 2,
+      "approved_bottles": 6,
+      "approved_gross": 83000,
+      "approved_commission": 8300,
+      "approved_management": 74700
+    }
+  ],
+  "monthly": [
+    {
+      "sale_month": "2026-07",
+      "approved_reports": 187,
+      "approved_bottles": 526,
+      "approved_gross": 7374000,
+      "approved_commission": 737400,
+      "approved_management": 6636600
+    },
+    {
+      "sale_month": "2026-08",
+      "approved_reports": 207,
+      "approved_bottles": 589,
+      "approved_gross": 8253000,
+      "approved_commission": 825300,
+      "approved_management": 7427700
+    },
+    {
+      "sale_month": "2026-09",
+      "approved_reports": 183,
+      "approved_bottles": 539,
+      "approved_gross": 7464000,
+      "approved_commission": 746400,
+      "approved_management": 6717600
+    },
+    {
+      "sale_month": "2026-10",
+      "approved_reports": 116,
+      "approved_bottles": 332,
+      "approved_gross": 4685000,
+      "approved_commission": 468500,
+      "approved_management": 4216500
+    }
+  ],
+  "freelancers": [
+    {
+      "freelancer_id": "FL-001",
+      "display_name": "Andi",
+      "approved_reports": 110,
+      "approved_bottles": 301,
+      "approved_gross": 4162000,
+      "approved_commission": 416200,
+      "approved_management": 3745800,
+      "contribution_percent": 14.98
+    },
+    {
+      "freelancer_id": "FL-002",
+      "display_name": "Bima",
+      "approved_reports": 84,
+      "approved_bottles": 243,
+      "approved_gross": 3349000,
+      "approved_commission": 334900,
+      "approved_management": 3014100,
+      "contribution_percent": 12.06
+    },
+    {
+      "freelancer_id": "FL-003",
+      "display_name": "Citra",
+      "approved_reports": 81,
+      "approved_bottles": 223,
+      "approved_gross": 3106000,
+      "approved_commission": 310600,
+      "approved_management": 2795400,
+      "contribution_percent": 11.18
+    },
+    {
+      "freelancer_id": "FL-004",
+      "display_name": "Dimas",
+      "approved_reports": 86,
+      "approved_bottles": 250,
+      "approved_gross": 3508000,
+      "approved_commission": 350800,
+      "approved_management": 3157200,
+      "contribution_percent": 12.63
+    },
+    {
+      "freelancer_id": "FL-005",
+      "display_name": "Eka",
+      "approved_reports": 72,
+      "approved_bottles": 219,
+      "approved_gross": 3079000,
+      "approved_commission": 307900,
+      "approved_management": 2771100,
+      "contribution_percent": 11.09
+    },
+    {
+      "freelancer_id": "FL-006",
+      "display_name": "Farhan",
+      "approved_reports": 57,
+      "approved_bottles": 150,
+      "approved_gross": 2087000,
+      "approved_commission": 208700,
+      "approved_management": 1878300,
+      "contribution_percent": 7.51
+    },
+    {
+      "freelancer_id": "FL-007",
+      "display_name": "Gita",
+      "approved_reports": 70,
+      "approved_bottles": 189,
+      "approved_gross": 2666000,
+      "approved_commission": 266600,
+      "approved_management": 2399400,
+      "contribution_percent": 9.6
+    },
+    {
+      "freelancer_id": "FL-008",
+      "display_name": "Hana",
+      "approved_reports": 56,
+      "approved_bottles": 190,
+      "approved_gross": 2691000,
+      "approved_commission": 269100,
+      "approved_management": 2421900,
+      "contribution_percent": 9.69
+    },
+    {
+      "freelancer_id": "FL-009",
+      "display_name": "Iqbal",
+      "approved_reports": 34,
+      "approved_bottles": 106,
+      "approved_gross": 1501000,
+      "approved_commission": 150100,
+      "approved_management": 1350900,
+      "contribution_percent": 5.4
+    },
+    {
+      "freelancer_id": "FL-010",
+      "display_name": "Jihan",
+      "approved_reports": 43,
+      "approved_bottles": 115,
+      "approved_gross": 1627000,
+      "approved_commission": 162700,
+      "approved_management": 1464300,
+      "contribution_percent": 5.86
+    }
+  ],
+  "products": [
+    {
+      "product_code": "americano",
+      "product_name": "Americano",
+      "approved_reports_containing_product": 245,
+      "approved_bottles": 306,
+      "approved_gross": 3060000
+    },
+    {
+      "product_code": "aren_latte",
+      "product_name": "Aren Latte",
+      "approved_reports_containing_product": 303,
+      "approved_bottles": 402,
+      "approved_gross": 6432000
+    },
+    {
+      "product_code": "latte",
+      "product_name": "Latte",
+      "approved_reports_containing_product": 275,
+      "approved_bottles": 350,
+      "approved_gross": 4550000
+    },
+    {
+      "product_code": "matcha_latte",
+      "product_name": "Matcha Latte",
+      "approved_reports_containing_product": 285,
+      "approved_bottles": 371,
+      "approved_gross": 5936000
+    },
+    {
+      "product_code": "mocha_latte",
+      "product_name": "Mocha Latte",
+      "approved_reports_containing_product": 237,
+      "approved_bottles": 284,
+      "approved_gross": 3976000
+    },
+    {
+      "product_code": "redvelvet_latte",
+      "product_name": "Redvelvet Latte",
+      "approved_reports_containing_product": 210,
+      "approved_bottles": 273,
+      "approved_gross": 3822000
+    }
+  ],
+  "statuses": [
+    {
+      "status": "approved",
+      "reports": 693
+    },
+    {
+      "status": "pending",
+      "reports": 42
+    },
+    {
+      "status": "rejected",
+      "reports": 15
+    },
+    {
+      "status": "revision",
+      "reports": 0
+    }
+  ],
+  "filter_cases": [
+    {
+      "id": "all_period",
+      "start_date": "2026-07-01",
+      "end_date": "2026-10-20",
+      "freelancer_id": null,
+      "expected": {
+        "reports_total": 750,
+        "approved_reports": 693,
+        "pending_reports": 42,
+        "rejected_reports": 15,
+        "revision_reports": 0,
+        "approved_bottles": 1986,
+        "approved_gross": 27776000,
+        "approved_commission": 2777600,
+        "approved_management": 24998400
+      },
+      "within_source_period": true
+    },
+    {
+      "id": "july",
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-31",
+      "freelancer_id": null,
+      "expected": {
+        "reports_total": 199,
+        "approved_reports": 187,
+        "pending_reports": 10,
+        "rejected_reports": 2,
+        "revision_reports": 0,
+        "approved_bottles": 526,
+        "approved_gross": 7374000,
+        "approved_commission": 737400,
+        "approved_management": 6636600
+      },
+      "within_source_period": true
+    },
+    {
+      "id": "october_partial",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-20",
+      "freelancer_id": null,
+      "expected": {
+        "reports_total": 127,
+        "approved_reports": 116,
+        "pending_reports": 8,
+        "rejected_reports": 3,
+        "revision_reports": 0,
+        "approved_bottles": 332,
+        "approved_gross": 4685000,
+        "approved_commission": 468500,
+        "approved_management": 4216500
+      },
+      "within_source_period": true
+    },
+    {
+      "id": "first_day",
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "freelancer_id": null,
+      "expected": {
+        "reports_total": 3,
+        "approved_reports": 2,
+        "pending_reports": 1,
+        "rejected_reports": 0,
+        "revision_reports": 0,
+        "approved_bottles": 6,
+        "approved_gross": 89000,
+        "approved_commission": 8900,
+        "approved_management": 80100
+      },
+      "within_source_period": true
+    },
+    {
+      "id": "freelancer_fl001",
+      "start_date": "2026-07-01",
+      "end_date": "2026-10-20",
+      "freelancer_id": "FL-001",
+      "expected": {
+        "reports_total": 117,
+        "approved_reports": 110,
+        "pending_reports": 5,
+        "rejected_reports": 2,
+        "revision_reports": 0,
+        "approved_bottles": 301,
+        "approved_gross": 4162000,
+        "approved_commission": 416200,
+        "approved_management": 3745800
+      },
+      "within_source_period": true
+    },
+    {
+      "id": "freelancer_fl001_july",
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-31",
+      "freelancer_id": "FL-001",
+      "expected": {
+        "reports_total": 30,
+        "approved_reports": 28,
+        "pending_reports": 1,
+        "rejected_reports": 1,
+        "revision_reports": 0,
+        "approved_bottles": 72,
+        "approved_gross": 974000,
+        "approved_commission": 97400,
+        "approved_management": 876600
+      },
+      "within_source_period": true
+    },
+    {
+      "id": "empty_period",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-03",
+      "freelancer_id": null,
+      "expected": {
+        "reports_total": 0,
+        "approved_reports": 0,
+        "pending_reports": 0,
+        "rejected_reports": 0,
+        "revision_reports": 0,
+        "approved_bottles": 0,
+        "approved_gross": 0,
+        "approved_commission": 0,
+        "approved_management": 0
+      },
+      "within_source_period": false
+    },
+    {
+      "id": "pending_only_scope",
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "freelancer_id": "FL-007",
+      "expected": {
+        "reports_total": 1,
+        "approved_reports": 0,
+        "pending_reports": 1,
+        "rejected_reports": 0,
+        "revision_reports": 0,
+        "approved_bottles": 0,
+        "approved_gross": 0,
+        "approved_commission": 0,
+        "approved_management": 0
+      },
+      "within_source_period": true
+    }
+  ]
+}

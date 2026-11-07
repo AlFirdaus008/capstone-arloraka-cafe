@@ -9,7 +9,11 @@
   },
   "scripts": {
     "test": "node tests/run-tests.mjs",
-    "test:report": "node tests/run-tests.mjs --write-report"
+    "test:report": "node tests/run-tests.mjs --write-report",
+    "test:scenarios": "node tests/run-scenarios.mjs",
+    "test:reference": "node tests/check-dashboard-reference.mjs",
+    "test:all": "node tests/run-all.mjs",
+    "test:all:report": "node tests/run-all.mjs --write-report"
   },
   "devDependencies": {
     "@electric-sql/pglite": "0.3.14"

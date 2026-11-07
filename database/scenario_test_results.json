@@ -1,0 +1,77 @@
+{
+  "suite": "SCENARIO",
+  "engine": "PostgreSQL 17.5 on aarch64-unknown-linux-gnu, compiled by emcc (Emscripten gcc/clang-like replacement + linker emulating GNU ld) 3.1.74 (1092ec30a3fb1d46b1782ff1b4db5094d3d06ae5), 32-bit",
+  "generated_at_utc": "2026-11-07T13:54:58.707Z",
+  "test_environment": "PGlite in-memory; tidak memakai database aplikasi atau kredensial",
+  "expected_test_count": 9,
+  "all_passed": true,
+  "tested_files": {
+    "database/schema.sql": "83ea68858601406d055a30e48dcacaca99bc4f856f7ee4376499373b076a3462",
+    "database/seed.sql": "d0fd1cf40f18a488dbbd163d6537391369bff329d87da8ebeb92f7c64b616bfc",
+    "analysis/dashboard_queries.sql": "b8772b652ba0f8d039e372d7e062d84a7264736421de3934edb06004e2054c18",
+    "database/fixtures/ds1_scenarios.json": "5c582e1afdf87b4b3a35838ea40f5a14f56c8c318b92bd1367092861ebc9f8cd",
+    "database/fixtures/ds1_expected.json": "af850be256bca160d1947ffa4a93da94d10e0d6044224adf706861c23a284d16",
+    "database/tests/helpers.mjs": "768d8409faf7c2344b1ea7a02322075224fe84e854046f538e4dfa52d08fa89e",
+    "database/tests/run-scenarios.mjs": "fa7f8d14652dee3b8dcd5aae7bb2517cf171f735a536c0f0850a25c0a052b649"
+  },
+  "tests": [
+    {
+      "id": "DS1-13",
+      "name": "Batas bulan memakai tanggal penjualan",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "DS1-14",
+      "name": "Persetujuan terlambat memperbarui bulan penjualan",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "DS1-15",
+      "name": "Periode tanpa laporan approved",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "DS1-16",
+      "name": "Komisi bulanan menjumlahkan pembulatan per laporan",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "DS1-17",
+      "name": "Target belum ditetapkan",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "DS1-18",
+      "name": "Target nol tidak dibagi",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "DS1-19",
+      "name": "Target positif memakai periode dan satuan yang sama",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "DS1-20",
+      "name": "Pencapaian di atas 100 persen tetap ditampilkan",
+      "status": "passed",
+      "passed": true
+    },
+    {
+      "id": "DS1-21",
+      "name": "Cakupan freelancer memakai ID dan mengecualikan Pending",
+      "status": "passed",
+      "passed": true
+    }
+  ],
+  "scope": "Acuan SQL dan data simulasi DS-1; belum membuktikan perilaku API, hak akses, scheduler pengakuan, atau UI aplikasi.",
+  "passed_count": 9,
+  "failed_count": 0,
+  "not_run_count": 0
+}

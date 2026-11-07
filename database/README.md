@@ -185,6 +185,12 @@ Skrip pengujian sekarang tersedia di repository. Dari root proyek, jalankan `npm
 
 Angka di atas berlaku untuk seed awal. Koreksi yang sah dapat mengubah nominal dan kontribusi; hasil rekonsiliasi header-rincian harus tetap tanpa selisih. Backend, pembatasan akses pengguna, pembayaran, dan penggunaan bersamaan pada server belum termasuk pengujian paket ini.
 
+## Skenario tambahan dan acuan dashboard
+
+Fixture dummy tambahan tersimpan pada `fixtures/ds1_scenarios.json`, dengan hasil harapan di `fixtures/ds1_expected.json`. Fixture ini hanya dimuat pada database sementara dan tidak mengubah seed awal. Lihat [tabel skenario DS-1](../docs/ds1-test-cases.md) dan [acuan dashboard](../analysis/README.md).
+
+Jalankan `npm --prefix database run test:all:report` dari root proyek untuk menjalankan 12 tes inti, 9 skenario tambahan, dan 14 pemeriksaan acuan. Dua laporan tambahan adalah `scenario_test_results.json` dan `reference_test_results.json`.
+
 ## Pekerjaan integrasi tim
 
 Kevin dapat memakai schema dan seed ini sebagai dasar penyimpanan laporan. Jika backend menggunakan UUID, pertahankan pasangan asal `source_dataset` dan `source_transaction_id` saat memetakan ke ID internal. Nama kolom pada API dapat berbeda selama pemetaan ke tabel tetap jelas.

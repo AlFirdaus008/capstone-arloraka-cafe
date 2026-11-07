@@ -24,6 +24,8 @@ arloraka-cafe-project/
 │   ├── tests/                # Skrip pengujian yang dapat dijalankan ulang
 │   ├── validation_report.json
 │   └── test_results.json
+├── analysis/                # Query dan angka pembanding dashboard dari CSV mentah
+├── docs/                    # Skenario uji dan progres DS-1
 ├── requirements.txt
 ├── .env.example
 └── CONTRIBUTING.md
@@ -81,6 +83,17 @@ npm --prefix database run test:report
 ```
 
 `npm test` tidak mengubah laporan yang tersimpan. `test:report` memperbarui `database/test_results.json`, termasuk jumlah tes lulus/gagal, versi mesin, dan sidik berkas yang diuji. Periksa hasilnya sebelum memasukkan laporan ke commit. Panduan lengkap tersedia di [dokumentasi pengujian](database/tests/README.md).
+
+## Skenario tambahan dan acuan dashboard DS-1
+
+[Tabel 21 skenario](docs/ds1-test-cases.md) memuat kasus inti dan data tambahan untuk batas bulan, periode kosong, serta target. Fixture tambahan dipisahkan dari sumber 750 transaksi. [Acuan dashboard](analysis/README.md) menyediakan rekap harian, bulanan, freelancer, produk, dan status yang dihitung dari CSV mentah, kemudian dibandingkan dengan query PostgreSQL.
+
+```powershell
+python analysis/build_reference.py
+npm --prefix database run test:all:report
+```
+
+Perintah pengujian lengkap menjalankan 12 tes inti, 9 skenario tambahan, dan 14 pemeriksaan acuan dashboard. Laporan tersimpan pada `database/test_results.json`, `database/scenario_test_results.json`, dan `database/reference_test_results.json`. Gunakan `npm --prefix database run test:all` untuk pemeriksaan tanpa memperbarui laporan. [Daftar progres DS-1](docs/ds1-progress.md) memisahkan pekerjaan data yang sudah tersedia dari integrasi yang masih menunggu aplikasi.
 
 ## Status awal dan angka kontrol
 

@@ -1,7 +1,7 @@
 {
   "engine": "PostgreSQL 17.5 on aarch64-unknown-linux-gnu, compiled by emcc (Emscripten gcc/clang-like replacement + linker emulating GNU ld) 3.1.74 (1092ec30a3fb1d46b1782ff1b4db5094d3d06ae5), 32-bit",
   "node_version": "v24.14.0",
-  "generated_at_utc": "2026-11-07T13:28:26.004Z",
+  "generated_at_utc": "2026-11-07T13:54:48.719Z",
   "test_environment": "PGlite in-memory; database aplikasi pengguna tidak dihubungkan",
   "baseline": {
     "counts": {
@@ -114,7 +114,7 @@
     "verify.sql": "e6a389e65f3f68dc545d50bf769926ea1bd401af2e35311f04227c32d318be6c",
     "prepare_seed.py": "ce9db05570af9e14b0ae3b6328e70d9740808a218656a7140881c1c3dfbf5f38",
     "tests/run-tests.mjs": "a35ffe5043e1d667badf616d305d16be57864cd28dc1979e73a2f13983b38346",
-    "package.json": "00712da6963c0a075cda5b7114ffd5a81f9f45085d9917f28f1c747e6de92ee6",
+    "package.json": "5e7b9eee9bc2d3b8b91c25233b3146bf1bb35c0d0aa91e7f33aac9844e7715b4",
     "package-lock.json": "ada1acc011d54edf43f35a00a0a3438c3f6cb218f0d06080ac00fa221ff73e7d"
   },
   "source_csv_sha256": "d87083c5b1ee814dfbf5a2a2171b60ba939d67b97c6d36eca440c91443b37951",

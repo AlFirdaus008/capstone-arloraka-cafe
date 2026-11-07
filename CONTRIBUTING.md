@@ -44,3 +44,5 @@ Pertahankan identitas asal laporan, harga transaksi, dan aturan kontribusi appro
 Dari root proyek, jalankan `npm --prefix database ci` sekali untuk memasang dependensi sesuai lockfile. Gunakan `npm --prefix database test` sebelum menyerahkan perubahan schema, seed, atau perhitungan database. Perintah biasa tidak mengubah laporan yang dilacak Git.
 
 Jika ingin menyertakan bukti pengujian terbaru, jalankan `npm --prefix database run test:report`, lalu tinjau `database/test_results.json` bersama perubahan yang diuji. Petunjuk skenario dan arti hasil tersedia pada [panduan pengujian](database/tests/README.md).
+
+Untuk perubahan query dashboard atau fixture DS-1, jalankan `npm --prefix database run test:all`. Perbarui acuan dari CSV dengan `python analysis/build_reference.py` setelah perubahan sumber ditinjau, lalu jalankan `npm --prefix database run test:all:report` jika membutuhkan bukti eksekusi terbaru.
